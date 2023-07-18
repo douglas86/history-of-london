@@ -50,3 +50,7 @@ body {
   border: none !important;
   font-size: x-large;
 }
+
+.up-arrow svg {
+  color: rgb(40, 90, 40);
+}

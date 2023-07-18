@@ -24,3 +24,9 @@ body {
   font-size: 20px;
   width: 25%;
 }
+
+/*page header*/
+.page-header {
+  text-align: center;
+  font-size: 3rem;
+}

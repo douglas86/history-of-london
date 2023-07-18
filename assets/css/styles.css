@@ -48,4 +48,5 @@ body {
 .up-arrow button {
   background-color: transparent;
   border: none !important;
+  font-size: x-large;
 }

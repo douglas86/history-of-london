@@ -3,7 +3,7 @@ body {
   margin: 0;
 }
 
-/*navigational bar*/
+/*navbar*/
 .navbar {
   overflow: auto;
   background-color: #d6b65e;
@@ -19,8 +19,8 @@ body {
 .navbar a {
   float: left;
   padding-bottom: 12px;
-  color: black;
+  color: #795d10;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 20px;
   width: 25%;
 }

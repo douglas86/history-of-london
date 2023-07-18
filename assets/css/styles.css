@@ -32,15 +32,25 @@ body {
   font-family: "Lumanosimo", cursive, "Delicious Handrawn";
 }
 
-/*main section*/
 /*image-heading*/
 .image-heading {
   width: 100%;
   height: 20rem;
 }
 
-/*heading tags*/
-h2 {
-  text-align: center;
-  font-size: 1.5rem;
+/* up arrow section */
+.up-arrow {
+  position: fixed;
+  right: 0;
+  margin: 3rem;
+}
+
+.up-arrow button {
+  background-color: transparent;
+  border: none !important;
+  font-size: x-large;
+}
+
+.up-arrow svg {
+  color: rgb(40, 90, 40);
 }

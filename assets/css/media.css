@@ -10,4 +10,12 @@
   .page-header {
     font-size: 2rem;
   }
+  /*image-heading*/
+  .image-heading {
+    height: auto;
+  }
+  /*heading tags*/
+  h2 {
+    font-size: 1rem;
+  }
 }

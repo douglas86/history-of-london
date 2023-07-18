@@ -1,0 +1,14 @@
+@media only screen and (max-width: 600px) {
+  .navbar a {
+    float: inherit;
+  }
+  a {
+    margin-bottom: 20px;
+  }
+  .page-header {
+    font-size: 2rem;
+  }
+  .image-heading {
+    height: auto;
+  }
+}

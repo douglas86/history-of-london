@@ -5,10 +5,21 @@
 <h2 id="table">Table of Content</h2>
 
 <ul>
+    <li><a href="#how">How this Document works?</a></li>
     <li><a href="#description">Description</a></li>
     <li><a href="#install-project">How to install and run this Project</a></li>
     <li><a href="#use-project">How to use this project</a></li>
     <li><a href="#credits">Credits</a></li>
+</ul>
+
+<hr>
+
+<h2 id="how"><a href="#table">How this Document works?</a></h2>
+
+<ul>
+    <li>Above is the table of contents or the index page to point to the varies topics in this document</li>
+    <li>Each Topic heading is a link that will direct you right back to the index page</li>
+    <li>Right at the bottom of this page I have got a section for all my accreditation in this project</li>
 </ul>
 
 <hr>

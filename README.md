@@ -2,6 +2,31 @@
 
 <hr>
 
+<h2 id="table">Table of Content</h2>
+
+<ul>
+    <li><a href="#description">Description</a></li>
+    <li><a href="#install-project">How to install and run this Project</a></li>
+    <li><a href="#use-project">How to use this project</a></li>
+    <li><a href="#credits">Credits</a></li>
+</ul>
+
+<hr>
+
+<h2 id="description"><a href="#table">Project Description</a></h2>
+
+<hr>
+
+<h2 id="install-project"><a href="#table">How to install and run this Project</a></h2>
+
+<hr>
+
+<h2 id="use-project"><a href="#table">How to use this project</a></h2>
+
+<hr>
+
+<h2 id="credits"><a href="#table">Credits</a></h2>
+
 <hr>
 
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)

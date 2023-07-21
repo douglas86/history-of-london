@@ -9,7 +9,7 @@
     <li><a href="#description">Description</a></li>
     <ul>
         <li><a href="#technology_used">Technologies that I used in this project</a></li>
-        <li><a href="#navigation">Navigating website</a></li>
+        <li><a href="#screen_shots">Screen shots of website</a></li>
     </ul>
     <li><a href="#install-project">How to install and run this Project</a></li>
     <li><a href="#use-project">How to use this project</a></li>
@@ -60,7 +60,14 @@
 </div>
 
 
-<h3 id="navigation">Navigating website</h3>
+<h3 id="screen_shots">Screen shots of website</h3>
+
+<h4>Header Section</h4>
+
+<figure>
+    <img src="assets/images/readme/screenshots/header.png" alt="html image" >
+    <figcaption>This is the image of the home page with navbar on top</figcaption>
+</figure>
 
 <hr>
 

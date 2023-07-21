@@ -1,3 +1,9 @@
+<h1>Project 1: HTML & CSS</h1>
+
+<hr>
+
+<hr>
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome,

@@ -12,3 +12,9 @@
     height: auto;
   }
 }
+
+@media only screen and (max-width: 900px) and (min-width: 600px) {
+  .image-heading {
+    height: 30rem;
+  }
+}

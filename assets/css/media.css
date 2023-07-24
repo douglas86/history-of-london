@@ -14,16 +14,47 @@
   .image-heading {
     height: auto;
   }
+  .years {
+    display: inline-block;
+  }
+
+  .omnibus_description {
+    display: inline-block;
+  }
+
+  .omnibus_description div:first-child {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+  }
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 450px) {
   .page-header {
     font-size: 1rem;
+  }
+  .years p {
+    font-size: 0.8rem;
   }
 }
 
 @media only screen and (max-width: 900px) and (min-width: 600px) {
   .image-heading {
     height: 30rem;
+  }
+  .omnibus_description {
+    display: inline-block;
+  }
+
+  .omnibus_description div:first-child {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5rem;
+  }
+
+  .years {
+    display: inline-block;
   }
 }

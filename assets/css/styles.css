@@ -1,5 +1,6 @@
 body {
   margin-top: 0;
+  padding: 1rem;
 }
 
 .navbar {
@@ -50,4 +51,38 @@ body {
 
 .up-arrow svg {
   color: rgb(40, 90, 40);
+}
+
+.omnibus_description {
+  display: flex;
+}
+
+.omnibus_description p {
+  width: 75%;
+  height: auto;
+  padding: 1rem 3rem;
+  text-align: center;
+  justify-content: center;
+}
+
+.omnibus_description img {
+  width: 100%;
+  height: auto;
+}
+
+.years {
+  display: flex;
+}
+
+.years p {
+  font-size: 1.2rem;
+}
+
+.years figure {
+  width: 25%;
+  height: auto;
+}
+
+figure > img {
+  width: 20rem;
 }

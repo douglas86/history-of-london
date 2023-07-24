@@ -24,7 +24,7 @@
 <ul>
     <li>Above is the table of contents or the index page to point to the varies topics in this document</li>
     <li>Each Topic heading is a link that will direct you right back to the index page</li>
-    <li>Right at the bottom of this page I have got a section for all my accreditation in this project</li>
+    <li>Right at the bottom of this page I have got a section for all my accreditation in this project which are clickable links</li>
 </ul>
 
 <hr>

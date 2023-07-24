@@ -91,6 +91,17 @@
 
 <h4>Old Wireframe Diagrams that I decided not to use</h4>
 
+<figure>
+    <figcaption>Top of second design</figcaption>
+    <figcaption>I decided not to take this drawing as it became to lengthy and complicated</figcaption>
+    <img src="assets/images/readme/screenshots/wireframe-4.png" alt="wireframe diagram of my site" >
+</figure>
+
+<figure>
+    <figcaption>Bottom of second design</figcaption>
+    <img src="assets/images/readme/screenshots/wireframe-5.png" alt="wireframe diagram of my site" >
+</figure>
+
 <hr>
 
 <h2 id="install-project"><a href="#table">How to install and run this Project</a></h2>

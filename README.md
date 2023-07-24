@@ -10,6 +10,7 @@
     <ul>
         <li><a href="#technology_used">Technologies that I used in this project</a></li>
         <li><a href="#screen_shots">Screen shots of website</a></li>
+        <li><a href="#wireframes">Wireframe Diagrams</a></li>
     </ul>
     <li><a href="#install-project">How to install and run this Project</a></li>
     <li><a href="#use-project">How to use this project</a></li>
@@ -68,6 +69,8 @@
     <img src="assets/images/readme/screenshots/header.png" alt="html image" >
     <figcaption>This is the image of the home page with navbar on top</figcaption>
 </figure>
+
+<h3 id="wireframes">Wireframe Diagrams</h3>
 
 <hr>
 

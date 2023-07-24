@@ -10,6 +10,7 @@
     <ul>
         <li><a href="#technology_used">Technologies that I used in this project</a></li>
         <li><a href="#screen_shots">Screen shots of website</a></li>
+        <li><a href="#wireframes">Wireframe Diagrams</a></li>
     </ul>
     <li><a href="#install-project">How to install and run this Project</a></li>
     <li><a href="#use-project">How to use this project</a></li>
@@ -23,7 +24,7 @@
 <ul>
     <li>Above is the table of contents or the index page to point to the varies topics in this document</li>
     <li>Each Topic heading is a link that will direct you right back to the index page</li>
-    <li>Right at the bottom of this page I have got a section for all my accreditation in this project</li>
+    <li>Right at the bottom of this page I have got a section for all my accreditation in this project which are clickable links</li>
 </ul>
 
 <hr>
@@ -67,6 +68,49 @@
 <figure>
     <img src="assets/images/readme/screenshots/header.png" alt="html image" >
     <figcaption>This is the image of the home page with navbar on top</figcaption>
+</figure>
+
+<h3 id="wireframes">Wireframe Diagrams</h3>
+
+<h4>Wireframe diagram that I am current using</h4>
+
+<figure>
+    <figcaption>Wireframe of top of drawing</figcaption>
+    <img src="assets/images/readme/screenshots/wireframe-1.png" alt="wireframe diagram of my site" >
+</figure>
+
+<figure>
+    <figcaption>Wireframe of bottom of drawing</figcaption>
+    <img src="assets/images/readme/screenshots/wireframe-3.png" alt="wireframe diagram of my site" >
+</figure>
+
+<figure>
+    <figcaption>What I am wanting the subsections to look like</figcaption>
+    <img src="assets/images/readme/screenshots/wireframe-2.png" alt="wireframe diagram of my site" >
+</figure>
+
+<h4>Old Wireframe Diagrams that I decided not to use</h4>
+
+<figure>
+    <figcaption>Top of second design</figcaption>
+    <figcaption>I decided not to take this drawing as it became to lengthy and complicated</figcaption>
+    <img src="assets/images/readme/screenshots/wireframe-4.png" alt="wireframe diagram of my site" >
+</figure>
+
+<figure>
+    <figcaption>Bottom of second design</figcaption>
+    <img src="assets/images/readme/screenshots/wireframe-5.png" alt="wireframe diagram of my site" >
+</figure>
+
+<figure>
+    <figcaption>Top of third design</figcaption>
+    <figcaption>I decided not to do it on the different companies as there is to many companies to choose from in London</figcaption>
+    <img src="assets/images/readme/screenshots/wireframe-6.png" alt="wireframe diagram of my site" >
+</figure>
+
+<figure>
+    <figcaption>Bottom of third design</figcaption>
+    <img src="assets/images/readme/screenshots/wireframe-7.png" alt="wireframe diagram of my site" >
 </figure>
 
 <hr>

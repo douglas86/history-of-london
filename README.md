@@ -72,6 +72,25 @@
 
 <h3 id="wireframes">Wireframe Diagrams</h3>
 
+<h4>Wireframe diagram that I am current using</h4>
+
+<figure>
+    <img src="assets/images/readme/screenshots/wireframe-1.png" alt="wireframe diagram of my site" >
+    <figcaption>Wireframe of top of drawing</figcaption>
+</figure>
+
+<figure>
+    <img src="assets/images/readme/screenshots/wireframe-3.png" alt="wireframe diagram of my site" >
+    <figcaption>Wireframe of bottom of drawing</figcaption>
+</figure>
+
+<figure>
+    <img src="assets/images/readme/screenshots/wireframe-2.png" alt="wireframe diagram of my site" >
+    <figcaption>What I am wanting the subsections to look like</figcaption>
+</figure>
+
+<h4>Old Wireframe Diagrams that I decided not to use</h4>
+
 <hr>
 
 <h2 id="install-project"><a href="#table">How to install and run this Project</a></h2>

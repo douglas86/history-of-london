@@ -1,6 +1,8 @@
 body {
   margin-top: 0;
   padding: 1rem;
+  background: transparent
+    url("../images/general/istockphoto-515842039-170667a.webp") repeat;
 }
 
 .navbar {

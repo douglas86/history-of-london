@@ -18,11 +18,11 @@
     display: inline-block;
   }
 
-  .omnibus_description {
+  .description {
     display: inline-block;
   }
 
-  .omnibus_description div:first-child {
+  .description div:first-child {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -43,11 +43,11 @@
   .image-heading {
     height: 30rem;
   }
-  .omnibus_description {
+  .description {
     display: inline-block;
   }
 
-  .omnibus_description div:first-child {
+  .description div:first-child {
     display: flex;
     align-items: center;
     justify-content: center;

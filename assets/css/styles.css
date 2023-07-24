@@ -1,6 +1,8 @@
 body {
   margin-top: 0;
   padding: 1rem;
+  background: transparent
+    url("../images/general/istockphoto-515842039-170667a.webp") repeat;
 }
 
 .navbar {
@@ -53,19 +55,22 @@ body {
   color: rgb(40, 90, 40);
 }
 
-.omnibus_description {
+.description {
   display: flex;
 }
 
-.omnibus_description p {
+.description p,
+.subtext[class="subtext"] {
   width: 75%;
   height: auto;
   padding: 1rem 3rem;
   text-align: center;
   justify-content: center;
+  font-size: 1.3rem;
+  font-family: "Delicious Handrawn", "Lumanosimo", cursive;
 }
 
-.omnibus_description img {
+.description img {
   width: 100%;
   height: auto;
 }
@@ -74,8 +79,10 @@ body {
   display: flex;
 }
 
-.years p {
-  font-size: 1.2rem;
+.years p,
+figcaption {
+  font-size: 2rem;
+  font-family: "Delicious Handrawn", "Lumanosimo", cursive;
 }
 
 .years figure {

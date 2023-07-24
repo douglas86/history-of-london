@@ -14,7 +14,7 @@
   .image-heading {
     height: auto;
   }
-  .years_omnibus {
+  .years {
     display: inline-block;
   }
 
@@ -34,7 +34,7 @@
   .page-header {
     font-size: 1rem;
   }
-  .years_omnibus p {
+  .years p {
     font-size: 0.8rem;
   }
 }
@@ -54,7 +54,7 @@
     padding: 5rem;
   }
 
-  .years_omnibus {
+  .years {
     display: inline-block;
   }
 }

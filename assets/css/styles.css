@@ -70,15 +70,15 @@ body {
   height: auto;
 }
 
-.years_omnibus {
+.years {
   display: flex;
 }
 
-.years_omnibus p {
+.years p {
   font-size: 1.2rem;
 }
 
-.years_omnibus figure {
+.years figure {
   width: 25%;
   height: auto;
 }

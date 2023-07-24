@@ -102,6 +102,17 @@
     <img src="assets/images/readme/screenshots/wireframe-5.png" alt="wireframe diagram of my site" >
 </figure>
 
+<figure>
+    <figcaption>Top of third design</figcaption>
+    <figcaption>I decided not to do it on the different companies as there is to many companies to choose from in London</figcaption>
+    <img src="assets/images/readme/screenshots/wireframe-6.png" alt="wireframe diagram of my site" >
+</figure>
+
+<figure>
+    <figcaption>Bottom of third design</figcaption>
+    <img src="assets/images/readme/screenshots/wireframe-7.png" alt="wireframe diagram of my site" >
+</figure>
+
 <hr>
 
 <h2 id="install-project"><a href="#table">How to install and run this Project</a></h2>

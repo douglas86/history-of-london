@@ -86,3 +86,8 @@ figcaption {
 figure > img {
   width: 20rem;
 }
+
+footer img {
+  border-radius: 50%;
+  width: 2rem;
+}

@@ -5,23 +5,27 @@ body {
     url("../images/general/istockphoto-515842039-170667a.webp") repeat;
 }
 
-.navbar {
+.navbar,
+footer {
   background-color: #d6b65e;
 }
 
-.navbar ul {
+.navbar ul,
+footer ul {
   display: flex;
   padding: 1rem;
 }
 
-.navbar li {
+.navbar li,
+footer ul {
   list-style-type: none;
   margin: auto;
   text-align: center;
   justify-content: space-between;
 }
 
-.navbar a {
+.navbar a,
+footer a {
   text-decoration: none;
   font-size: 20px;
   color: #795d10;

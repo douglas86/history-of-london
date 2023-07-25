@@ -1,14 +1,62 @@
 @media only screen and (max-width: 600px) {
-  .navbar a {
-    float: inherit;
+  .navbar ul,
+  footer ul {
+    display: block;
   }
-  a {
-    margin-bottom: 20px;
+  .navbar li,
+  footer ul {
+    margin: 5px;
+    text-align: center;
+    justify-content: center;
   }
+
   .page-header {
     font-size: 2rem;
   }
   .image-heading {
     height: auto;
+  }
+  .years {
+    display: inline-block;
+  }
+
+  .description {
+    display: inline-block;
+  }
+
+  .description div:first-child {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .page-header {
+    font-size: 1rem;
+  }
+  .years p {
+    font-size: 0.8rem;
+  }
+}
+
+@media only screen and (max-width: 900px) and (min-width: 600px) {
+  .image-heading {
+    height: 30rem;
+  }
+  .description {
+    display: inline-block;
+  }
+
+  .description div:first-child {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5rem;
+  }
+
+  .years {
+    display: inline-block;
   }
 }

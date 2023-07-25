@@ -1,51 +1,93 @@
 body {
-  margin: 0;
+  margin-top: 0;
+  padding: 1rem;
+  background: transparent
+    url("../images/general/istockphoto-515842039-170667a.webp") repeat;
 }
 
-.navbar {
-  overflow: auto;
+.navbar,
+footer {
   background-color: #d6b65e;
 }
 
-.navbar li {
+.navbar ul,
+footer ul {
+  display: flex;
+  padding: 1rem;
+}
+
+.navbar li,
+footer ul {
   list-style-type: none;
-  margin: 0 25%;
+  margin: auto;
   text-align: center;
   justify-content: space-between;
 }
 
-.navbar a {
-  float: left;
-  padding-bottom: 12px;
-  color: #795d10;
+.navbar a,
+footer a {
   text-decoration: none;
   font-size: 20px;
-  width: 25%;
+  color: #795d10;
 }
 
 .page-header {
   text-align: center;
   font-size: 3rem;
   font-family: "Lumanosimo", cursive, "Delicious Handrawn";
+  width: 100%;
 }
 
 .image-heading {
   width: 100%;
-  height: 20rem;
+  height: 40rem;
 }
 
-.up-arrow {
-  position: fixed;
-  right: 0;
-  margin: 3rem;
+.section_heading {
+  text-align: center;
+  font-size: 3rem;
 }
 
-.up-arrow button {
-  background-color: transparent;
-  border: none !important;
-  font-size: x-large;
+.description {
+  display: flex;
 }
 
-.up-arrow svg {
-  color: rgb(40, 90, 40);
+.description p,
+.subtext[class="subtext"] {
+  width: 75%;
+  height: auto;
+  padding: 1rem 3rem;
+  text-align: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-family: "Delicious Handrawn", "Lumanosimo", cursive;
+}
+
+.description img {
+  width: 100%;
+  height: auto;
+}
+
+.years {
+  display: flex;
+}
+
+.years p,
+figcaption {
+  font-size: 2.1rem;
+  font-family: "Delicious Handrawn", "Lumanosimo", cursive;
+}
+
+.years figure {
+  width: 25%;
+  height: auto;
+}
+
+figure > img {
+  width: 20rem;
+}
+
+footer img {
+  border-radius: 50%;
+  width: 2rem;
 }

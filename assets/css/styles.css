@@ -39,20 +39,9 @@ body {
   height: 40rem;
 }
 
-.up-arrow {
-  position: fixed;
-  right: 0;
-  margin: 3rem;
-}
-
-.up-arrow button {
-  background-color: transparent;
-  border: none !important;
-  font-size: x-large;
-}
-
-.up-arrow svg {
-  color: rgb(40, 90, 40);
+.section_heading {
+  text-align: center;
+  font-size: 3rem;
 }
 
 .description {
@@ -66,7 +55,7 @@ body {
   padding: 1rem 3rem;
   text-align: center;
   justify-content: center;
-  font-size: 1.3rem;
+  font-size: 1.6rem;
   font-family: "Delicious Handrawn", "Lumanosimo", cursive;
 }
 
@@ -81,7 +70,7 @@ body {
 
 .years p,
 figcaption {
-  font-size: 2rem;
+  font-size: 2.1rem;
   font-family: "Delicious Handrawn", "Lumanosimo", cursive;
 }
 

@@ -1,7 +1,7 @@
 /*Styling for the body element*/
 body {
   margin-top: 0;
-  padding: 1rem;
+  padding: 0.5rem;
   background: transparent
     url("../images/general/istockphoto-515842039-170667a.webp") repeat;
 }
@@ -65,21 +65,43 @@ footer a {
   height: auto;
 }
 
-/*Timeline display*/
-.years {
+/*Timeline*/
+.timeline {
   display: flex;
 }
-.years p,
+
+/*Timeline dates*/
+.dates {
+  width: 50%;
+}
+
+/*Text that is displayed within the timeline and below images*/
+.dates > p,
 figcaption {
-  font-size: 2.1rem;
+  font-size: 1.8rem;
   font-family: "Delicious Handrawn", "Lumanosimo", cursive;
 }
-.years figure {
-  width: 25%;
-  height: auto;
+
+/*content next to timeline*/
+.content {
+  width: 50%;
 }
-figure > img {
-  width: 20rem;
+
+/*content image*/
+.image {
+  display: flex;
+}
+
+.image img {
+  width: 100%;
+  height: auto;
+  padding: 0.5rem;
+}
+
+/*caption on image*/
+figcaption {
+  width: 100%;
+  text-align: center;
 }
 
 /*footer*/

@@ -46,23 +46,20 @@ footer a {
   font-size: 3rem;
 }
 
-/*Description of the varies topics*/
+/*description section*/
 .description {
   display: flex;
 }
-.description p,
-.subtext[class="subtext"] {
-  width: 75%;
+
+.description div {
+  width: 50%;
   height: auto;
-  padding: 1rem 3rem;
-  text-align: center;
-  justify-content: center;
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   font-family: "Delicious Handrawn", "Lumanosimo", cursive;
 }
-.description img {
-  width: 100%;
-  height: auto;
+
+.description .image {
+  margin: 2% auto;
 }
 
 /*Timeline*/

@@ -1,3 +1,34 @@
+/*media for 1200 pixels*/
+@media only screen and (max-width: 1200px) {
+  .dates {
+    width: 60%;
+  }
+  .content {
+    width: 40%;
+  }
+}
+
+/*media for 1000 pixels*/
+@media only screen and (max-width: 1000px) {
+  .timeline {
+    display: block;
+  }
+  .dates {
+    width: 100%;
+  }
+  .content {
+    width: 100%;
+  }
+}
+
+/*media for 600 pixels*/
+@media only screen and (max-width: 600px) {
+  .dates > p,
+  figcaption {
+    font-size: 1.5rem;
+  }
+}
+
 /*styling for screen sizes smaller than 600 pixels*/
 @media only screen and (max-width: 600px) {
   /*navbar and footer*/

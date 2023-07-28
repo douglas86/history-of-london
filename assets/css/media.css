@@ -34,6 +34,25 @@
   }
 }
 
+/*media for 900 pixels*/
+@media only screen and (max-width: 900px) {
+  /*Headings*/
+  .image-heading {
+    height: 30rem;
+  }
+
+  /*section desciptions*/
+  .description {
+    display: inline-block;
+  }
+  .description div:first-child {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5rem;
+  }
+}
+
 /*media for 600 pixels*/
 @media only screen and (max-width: 600px) {
   .dates > p {
@@ -42,10 +61,6 @@
   figcaption {
     font-size: 1.3rem;
   }
-}
-
-/*styling for screen sizes smaller than 600 pixels*/
-@media only screen and (max-width: 600px) {
   /*navbar and footer*/
   .navbar ul,
   footer ul {
@@ -66,11 +81,6 @@
     height: auto;
   }
 
-  /*Timelines*/
-  .years {
-    display: inline-block;
-  }
-
   /*section description*/
   .description {
     display: inline-block;
@@ -83,39 +93,10 @@
   }
 }
 
-/*styling for screen sizes smaller than 450 pixels*/
+/*media for 450 pixels*/
 @media only screen and (max-width: 450px) {
   /*Headings*/
   .page-header {
     font-size: 1rem;
-  }
-
-  /*Timeline*/
-  .years p {
-    font-size: 0.8rem;
-  }
-}
-
-/*styling for screen sizes between 600 and 900 pixels*/
-@media only screen and (max-width: 900px) and (min-width: 600px) {
-  /*Headings*/
-  .image-heading {
-    height: 30rem;
-  }
-
-  /*section desciptions*/
-  .description {
-    display: inline-block;
-  }
-  .description div:first-child {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 5rem;
-  }
-
-  /*Timeline*/
-  .years {
-    display: inline-block;
   }
 }

@@ -104,6 +104,17 @@ figcaption {
   text-align: center;
 }
 
+/*styling for youtube videos*/
+.videos {
+  display: flex;
+  padding: 10%;
+}
+
+video {
+  width: 100%;
+  margin: 5% auto;
+}
+
 /*footer*/
 footer img {
   border-radius: 50%;

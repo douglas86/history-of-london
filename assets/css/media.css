@@ -11,21 +11,22 @@
 /*media for 1000 pixels*/
 @media only screen and (max-width: 1000px) {
   .timeline {
-    display: block;
+    display: inline-block;
   }
-  .dates {
-    width: 100%;
-  }
+  .dates,
   .content {
-    width: 100%;
+    width: 80%;
+    margin: 1% auto;
   }
 }
 
 /*media for 600 pixels*/
 @media only screen and (max-width: 600px) {
-  .dates > p,
-  figcaption {
+  .dates > p {
     font-size: 1.5rem;
+  }
+  figcaption {
+    font-size: 1.3rem;
   }
 }
 

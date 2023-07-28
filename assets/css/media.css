@@ -10,6 +10,16 @@
 
 /*media for 1000 pixels*/
 @media only screen and (max-width: 1000px) {
+  /*Description*/
+  .description div {
+    width: 80%;
+  }
+  .description div:first-child {
+    padding: 0 !important;
+    text-align: center;
+  }
+
+  /*Timeline*/
   .timeline {
     display: inline-block;
   }
@@ -17,6 +27,10 @@
   .content {
     width: 80%;
     margin: 1% auto;
+  }
+
+  .image {
+    padding: 0;
   }
 }
 

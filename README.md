@@ -12,6 +12,7 @@
         <li><a href="#screen_shots">Screenshots of website</a></li>
         <li><a href="#wireframes">Wireframe Diagrams</a></li>
     </ul>
+    <li><a href="#problems-and-bugs">Problems And Bugs</a></li>
     <li><a href="#install-project">How to install and run this Project</a></li>
     <li><a href="#use-project">How to use this project</a></li>
     <li><a href="#credits">Credits</a></li>
@@ -111,6 +112,10 @@
     <figcaption>Bottom of third design</figcaption>
     <img src="assets/images/readme/screenshots/wireframe-7.png" alt="wireframe diagram of my site" >
 </figure>
+
+<hr>
+
+<h2 id="problems-and-bugs"><a href="#table">Problems And Bugs</a></h2>
 
 <hr>
 

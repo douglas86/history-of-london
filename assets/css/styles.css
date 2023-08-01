@@ -1,7 +1,7 @@
-/*Styling for the body element*/
+/*main body section of the page*/
 body {
   margin-top: 0;
-  padding: 1rem;
+  padding: 0.5rem;
   background: transparent
     url("../images/general/istockphoto-515842039-170667a.webp") repeat;
 }
@@ -29,6 +29,11 @@ footer a {
   font-size: 20px;
   color: #795d10;
 }
+footer img {
+  border-radius: 50%;
+  width: 2rem;
+  vertical-align: middle;
+}
 
 /*Heading*/
 .page-header {
@@ -46,44 +51,78 @@ footer a {
   font-size: 3rem;
 }
 
-/*Description of the varies topics*/
+/*description section*/
 .description {
   display: flex;
 }
-.description p,
-.subtext[class="subtext"] {
-  width: 75%;
+
+.description div {
+  width: 50%;
   height: auto;
-  padding: 1rem 3rem;
-  text-align: center;
-  justify-content: center;
+  font-size: 1.5rem;
+  font-family: "Delicious Handrawn", "Lumanosimo", cursive;
+}
+
+.description .image {
+  margin: 2% auto;
+}
+
+/*Timeline*/
+.timeline {
+  display: flex;
+}
+
+/*Timeline dates*/
+.dates {
+  width: 50%;
+}
+
+/*Text that is displayed within the timeline and below images*/
+.dates > p {
+  font-size: 1.8rem;
+  font-family: "Delicious Handrawn", "Lumanosimo", cursive;
+}
+
+figcaption {
   font-size: 1.6rem;
   font-family: "Delicious Handrawn", "Lumanosimo", cursive;
 }
-.description img {
-  width: 100%;
-  height: auto;
+
+/*content next to timeline*/
+.content {
+  width: 50%;
+  padding: 5%;
 }
 
-/*Timeline display*/
-.years {
+/*content figure*/
+.content figure {
+  margin: 10% 0;
+}
+
+/*content image*/
+.image {
   display: flex;
 }
-.years p,
-figcaption {
-  font-size: 2.1rem;
-  font-family: "Delicious Handrawn", "Lumanosimo", cursive;
-}
-.years figure {
-  width: 25%;
+
+.image img {
+  width: 100%;
   height: auto;
-}
-figure > img {
-  width: 20rem;
+  padding: 0.2rem;
 }
 
-/*footer*/
-footer img {
-  border-radius: 50%;
-  width: 2rem;
+/*caption on image*/
+figcaption {
+  width: 100%;
+  text-align: center;
+}
+
+/*styling for Youtube videos*/
+.videos {
+  display: flex;
+  padding: 2%;
+}
+
+video {
+  width: 100%;
+  /*margin: 5% auto;*/
 }

@@ -94,6 +94,11 @@ figcaption {
   padding: 5%;
 }
 
+/*content figure*/
+.content figure {
+  margin: 10% 0;
+}
+
 /*content image*/
 .image {
   display: flex;
@@ -102,7 +107,7 @@ figcaption {
 .image img {
   width: 100%;
   height: auto;
-  padding: 0.5rem;
+  padding: 0.2rem;
 }
 
 /*caption on image*/
@@ -111,13 +116,13 @@ figcaption {
   text-align: center;
 }
 
-/*styling for youtube videos*/
+/*styling for Youtube videos*/
 .videos {
   display: flex;
-  padding: 10%;
+  padding: 2%;
 }
 
 video {
   width: 100%;
-  margin: 5% auto;
+  /*margin: 5% auto;*/
 }

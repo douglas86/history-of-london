@@ -81,13 +81,8 @@
 </figure>
 
 <figure>
-    <figcaption>Wireframe at the bottom of the drawing</figcaption>
-    <img src="assets/images/readme/screenshots/wireframe-3.png" alt="wireframe diagram of my site" >
-</figure>
-
-<figure>
-    <figcaption>What I am wanting the subsections to look like</figcaption>
-    <img src="assets/images/readme/screenshots/wireframe-2.png" alt="wireframe diagram of my site" >
+    <figcaption>Wireframe of the bottom of the drawing</figcaption>
+    <img src="assets/images/readme/screenshots/wireframe-2.png" alt="wireframe of current drawing bottom" >
 </figure>
 
 <h4>Old Wireframe Diagrams that I decided not to use</h4>
@@ -95,23 +90,23 @@
 <figure>
     <figcaption>Top of second design</figcaption>
     <figcaption>I decided not to take this drawing as it became to lengthy and complicated</figcaption>
-    <img src="assets/images/readme/screenshots/wireframe-4.png" alt="wireframe diagram of my site" >
+    <img src="assets/images/readme/screenshots/wireframe-3.png" alt="wireframe diagram of my site" >
 </figure>
 
 <figure>
     <figcaption>Bottom of second design</figcaption>
-    <img src="assets/images/readme/screenshots/wireframe-5.png" alt="wireframe diagram of my site" >
+    <img src="assets/images/readme/screenshots/wireframe-4.png" alt="wireframe diagram of my site" >
 </figure>
 
 <figure>
     <figcaption>Top of third design</figcaption>
     <figcaption>I decided not to do it on the different companies as there is to many companies to choose from in London</figcaption>
-    <img src="assets/images/readme/screenshots/wireframe-6.png" alt="wireframe diagram of my site" >
+    <img src="assets/images/readme/screenshots/wireframe-5.png" alt="wireframe diagram of my site" >
 </figure>
 
 <figure>
     <figcaption>Bottom of third design</figcaption>
-    <img src="assets/images/readme/screenshots/wireframe-7.png" alt="wireframe diagram of my site" >
+    <img src="assets/images/readme/screenshots/wireframe-6.png" alt="wireframe diagram of my site" >
 </figure>
 
 <hr>

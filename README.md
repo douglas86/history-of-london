@@ -118,6 +118,20 @@
 
 <h2 id="problems-and-bugs"><a href="#table">Problems And Bugs</a></h2>
 
+<h3>Navbar</h3>
+
+<ul>
+    <li>There is a problem with the navbar when on smaller screens</li>
+    <li>When on the 1800s page the navbar uses the correct formatting of display: block</li>
+    <li>When on the other pages, the navbar doesn't seem to be using display: block</li>
+</ul>
+
+<p>1800s page</p>
+<img src="assets/images/readme/screenshots/navbar.png" alt="Navbar Picture">
+
+<p>The other pages</p>
+<img src="assets/images/readme/screenshots/navbar-2.png" alt="Navbar Picture">
+
 <hr>
 
 <h2 id="validators"><a href="#table">Validating my code</a></h2>

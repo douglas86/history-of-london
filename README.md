@@ -13,6 +13,7 @@
         <li><a href="#wireframes">Wireframe Diagrams</a></li>
     </ul>
     <li><a href="#problems-and-bugs">Problems And Bugs</a></li>
+    <li><a href="#validators">Validating my code</a></li>
     <li><a href="#install-project">How to install and run this Project</a></li>
     <li><a href="#use-project">How to use this project</a></li>
     <li><a href="#credits">Credits</a></li>
@@ -116,6 +117,10 @@
 <hr>
 
 <h2 id="problems-and-bugs"><a href="#table">Problems And Bugs</a></h2>
+
+<hr>
+
+<h2 id="validators"><a href="#table">Validating my code</a></h2>
 
 <hr>
 

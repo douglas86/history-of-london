@@ -1,6 +1,55 @@
-<h1>Project 1: HTML & CSS</h1>
+# Project 1: HTML & CSS
 
-<hr>
+---
+
+## Table of Content
+
+- [How this Document works?](#how-this-document-works)
+- [Inspiration for this project](#inspiration-for-this-project)
+- [Technologies used](#technologies-used)
+- [Screenshots of website](#screenshots-of-website)
+- [Screenshots of Wireframe Diagrams](#screenshots-of-wireframe-diagrams)
+- [Problems and bugs](#problems-and-bugs)
+- [Validating my code](#validating-my-code)
+- [Credits](#credits)
+
+---
+
+## [How This Document Works?](#table-of-content)
+
+- There is a table of the Content above to link to the sections of this document
+- Each Heading is a link that will take you right back to the table of content section
+- Right at the bottom is a section for all accreditations
+
+---
+
+## [Inspiration For This Project](#table-of-content)
+
+---
+
+## [Technologies used](#table-of-content)
+
+---
+
+## [Screenshots of website](#table-of-content)
+
+---
+
+## [Screenshots of Wireframe Diagrams](#table-of-content)
+
+---
+
+## [Problems and bugs](#table-of-content)
+
+---
+
+## [Validating my code](#table-of-content)
+
+---
+
+## [Credits](#table-of-content)
+
+---
 
 <h2 id="table">Table of Content</h2>
 
@@ -17,16 +66,6 @@
     <li><a href="#install-project">How to install and run this Project</a></li>
     <li><a href="#use-project">How to use this project</a></li>
     <li><a href="#credits">Credits</a></li>
-</ul>
-
-<hr>
-
-<h2 id="how"><a href="#table">How this Document works?</a></h2>
-
-<ul>
-    <li>Above is the table of contents or the index page to point to the varied topics in this document</li>
-    <li>Each Topic heading is a link that will direct you right back to the index page</li>
-    <li>Right at the bottom of this page, I have got a section for all my accreditation in this project which is clickable links</li>
 </ul>
 
 <hr>

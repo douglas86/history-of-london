@@ -56,13 +56,54 @@
 
 [TODO]: <> (run through w3c validator for html)
 [TODO]: <> (run through w3c validator for css)
-[TODO]: <> (run through wise for screen readers)
+[TODO]: <> (run through wave for screen readers)
+
+### HTML validator
+
+I paste my code directly into the validator
+
+Index.html page: First time running it:
+
+![index-html-validator.png](assets%2Fimages%2Freadme%2Fscreenshots%2Findex-html-validator.png)
+
+- Total - 22 info and warning errors
+- 17 info errors
+- 5 warning errors
+
+1900s.html page: First time running it:
+
+![1900s-html-validator.png](assets%2Fimages%2Freadme%2Fscreenshots%2F1900s-html-validator.png)
+
+- Total - 19 info and warning errors
+- 15 info errors
+- 4 warning errors
+
+2000s html page: First time running it:
+
+![2000s-html-validator.png](assets%2Fimages%2Freadme%2Fscreenshots%2F2000s-html-validator.png)
+
+- Total - 19 info and warning errors
+- 14 info errors
+- 5 warning errors
+
+When I paste the url into the validator:
+
+![index-html-validator.png](assets%2Fimages%2Freadme%2Fscreenshots%2Findex-html-validator.png)
+
+- Total - 22 info and warning errors
+- 17 info errors
+- 5 warning errors
+
+### CSS validator
+
+When I paste the url into the validator:
 
 ---
 
 ## [Credits](#table-of-content)
 
-[TODO]: <> (copy and paste credits at bottom of this docment from credits)
+- [<span style="color: aqua">Luke Buchanan - Mentor</span>](https://www.linkedin.com/in/lukebuchanan67/)
+- [<span style="color: aqua">Code Institute - Bootcamp</span>](https://codeinstitute.net/)
 
 ---
 

@@ -25,13 +25,19 @@
 
 ## [Inspiration For This Project](#table-of-content)
 
+[TODO]: <> (Write a description of were I got the idea for this project)
+
 ---
 
 ## [Technologies used](#table-of-content)
 
+[TODO]: <> (Add images of tech used with a caption)
+
 ---
 
 ## [Screenshots of website](#table-of-content)
+
+[TODO]: <> (needing to replace the screenshots that I took of my site with modern images)
 
 ---
 
@@ -45,9 +51,18 @@
 
 ## [Validating my code](#table-of-content)
 
+[TODO]: <> (run all my code through validators and see if I can print out the results)
+[TODO]: <> (before and an after screenshot)
+
+[TODO]: <> (run through w3c validator for html)
+[TODO]: <> (run through w3c validator for css)
+[TODO]: <> (run through wise for screen readers)
+
 ---
 
 ## [Credits](#table-of-content)
+
+[TODO]: <> (copy and paste credits at bottom of this docment from credits)
 
 ---
 

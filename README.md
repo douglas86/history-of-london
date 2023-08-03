@@ -16,8 +16,15 @@ As my country of origin doesn't have the same transportation network that the UK
 ## Table of Content
 
 - [Introduction](#introduction)
+- [Wireframe Diagrams](#wireframe-diagram)
 - [Website Design](#website-design)
+  - Color Palete
+  - Typography
+  - Images
+  - Videos
 - [Features](#features)
+  - Headers
+  - Flexbox
 - [Technology Used](#technology-used)
 - [Testing and Validation](#testing-and-validation)
 - [Problems and Bugs](#problems-and-bugs)
@@ -25,7 +32,11 @@ As my country of origin doesn't have the same transportation network that the UK
 
 ---
 
-## Website Design
+## [Wireframe Diagram](#table-of-content)
+
+---
+
+## [Website Design](#table-of-content)
 
 ### <span style="color:#996515">Color Palete</span>
 
@@ -59,6 +70,34 @@ As my country of origin doesn't have the same transportation network that the UK
 ---
 
 ## Features
+
+### <span style="color:#AB8E38">Headers</span>
+
+![navbar-desktop.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fnavbar-desktop.png)<br>
+Navbar on Desktop
+
+![navbar-mobile.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fnavbar-mobile.png)<br>
+Navbar on Mobile
+
+![Page Heading.png](assets%2Fimages%2Freadme%2Fscreenshots%2FPage%20Heading.png)<br>
+Page Heading
+
+![Image-heading.png](assets%2Fimages%2Freadme%2Fscreenshots%2FImage-heading.png)<br>
+Image Heading of Landing Page
+
+### <span style="color:#AB8E38">Flexbox</span>
+
+![Flexbox.png](assets%2Fimages%2Freadme%2Fscreenshots%2FFlexbox.png)<br>
+Using Flexbox to split the screen into 2<br>
+Paragraph on the left and images on the right
+
+### <span style="color:#AB8E38">Footer</span>
+
+![footer-desktop.png](assets%2Fimages%2Freadme%2Fscreenshots%2Ffooter-desktop.png)<br>
+Footer on Desktop
+
+![footer-mobile.png](assets%2Fimages%2Freadme%2Fscreenshots%2Ffooter-mobile.png)<br>
+Footer on Mobile
 
 ---
 

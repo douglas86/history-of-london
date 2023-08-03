@@ -30,7 +30,10 @@ As my country of origin doesn't have the same transportation network that the UK
 - [Technology Used](#technology-used)
 - [Testing and Validation](#testing-and-validation)
 - [Problems and Bugs](#problems-and-bugs)
+  - Navbar
 - [Credits and references](#credits-and-references)
+  - Credits
+  - References for information
 
 ---
 
@@ -140,8 +143,30 @@ Footer on Mobile
 
 ## Problems And Bugs
 
+### <span style="color:#AB8E38">Navbar</span>
+
+Problem: The navbar on the 1900s and 2000s page doesn't change on a smaller device,
+but it is correct on the Landing page.
+
+![navbar-desktop.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fnavbar-desktop.png)<br>
+This is how it looks
+
+![navbar-mobile.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fnavbar-mobile.png)<br>
+This is how it is supposed to look
+
 ---
 
 ## Credits And References
+
+### <span style="color:#AB8E38">Credits</span>
+
+[Luke Buchanan - Mentor](https://www.linkedin.com/in/lukebuchanan67/)<br>
+[Code Institute - Bootcamp](https://codeinstitute.net/)
+
+### <span style="color:#AB8E38">References for information</span>
+
+[History of the London Underground](https://en.wikipedia.org/wiki/History_of_the_London_Underground)<br>
+[Busses in London](https://en.wikipedia.org/wiki/Buses_in_London)<br>
+[Omnibuse or Horsebus](https://en.wikipedia.org/wiki/Horsebus#:~:text=A%20horse%2Dbus%20or%20horse,means%20of%20transportation%20in%20cities.)
 
 ---

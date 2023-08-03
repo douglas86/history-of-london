@@ -60,9 +60,9 @@
 
 ### HTML validator
 
-I paste my code directly into the validator
+Pasting my code directly into the validator
 
-Index.html page: First time running it:
+<span style="color:#80d186">Index.html page</span>
 
 ![index-html-validator.png](assets%2Fimages%2Freadme%2Fscreenshots%2Findex-html-validator.png)
 
@@ -70,7 +70,7 @@ Index.html page: First time running it:
 - 17 info errors
 - 5 warning errors
 
-1900s.html page: First time running it:
+<span style="color:#80d186">1900s.html page</span>
 
 ![1900s-html-validator.png](assets%2Fimages%2Freadme%2Fscreenshots%2F1900s-html-validator.png)
 
@@ -78,7 +78,7 @@ Index.html page: First time running it:
 - 15 info errors
 - 4 warning errors
 
-2000s html page: First time running it:
+<span style="color:#80d186">2000s html page</span>
 
 ![2000s-html-validator.png](assets%2Fimages%2Freadme%2Fscreenshots%2F2000s-html-validator.png)
 
@@ -102,17 +102,27 @@ When I paste the url into the validator:
 
 - there were no errors
 
-styles.css: First time running it:
+<span style="color:#80d186">styles.css</span>
 
 ![css-styles-validation.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fcss-styles-validation.png)
 
 - there were no errors
 
-media.css: First time running it:
+<span style="color:#80d186">media.css</span>
 
 ![css-media-validation.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fcss-media-validation.png)
 
 - there were no errors
+
+### Web accessability tool—for those that have a screenreader
+
+![wise-validation.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fwise-validation.png)
+
+- Total - 29 errors
+- 4 contrast errors
+- 6 alerts
+- 11 Features
+- 8 Structural elements
 
 ---
 

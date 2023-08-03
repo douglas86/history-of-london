@@ -9,7 +9,7 @@
     <li><a href="#description">Description</a></li>
     <ul>
         <li><a href="#technology_used">Technologies that I used in this project</a></li>
-        <li><a href="#screen_shots">Screen shots of website</a></li>
+        <li><a href="#screen_shots">Screenshots of website</a></li>
         <li><a href="#wireframes">Wireframe Diagrams</a></li>
     </ul>
     <li><a href="#install-project">How to install and run this Project</a></li>
@@ -22,9 +22,9 @@
 <h2 id="how"><a href="#table">How this Document works?</a></h2>
 
 <ul>
-    <li>Above is the table of contents or the index page to point to the varies topics in this document</li>
+    <li>Above is the table of contents or the index page to point to the varied topics in this document</li>
     <li>Each Topic heading is a link that will direct you right back to the index page</li>
-    <li>Right at the bottom of this page I have got a section for all my accreditation in this project which are clickable links</li>
+    <li>Right at the bottom of this page, I have got a section for all my accreditation in this project which is clickable links</li>
 </ul>
 
 <hr>
@@ -60,7 +60,6 @@
 </figure>
 </div>
 
-
 <h3 id="screen_shots">Screen shots of website</h3>
 
 <h4>Header Section</h4>
@@ -75,12 +74,12 @@
 <h4>Wireframe diagram that I am current using</h4>
 
 <figure>
-    <figcaption>Wireframe of top of drawing</figcaption>
+    <figcaption>Wireframe at the top of drawing</figcaption>
     <img src="assets/images/readme/screenshots/wireframe-1.png" alt="wireframe diagram of my site" >
 </figure>
 
 <figure>
-    <figcaption>Wireframe of bottom of drawing</figcaption>
+    <figcaption>Wireframe at the bottom of the drawing</figcaption>
     <img src="assets/images/readme/screenshots/wireframe-3.png" alt="wireframe diagram of my site" >
 </figure>
 
@@ -136,7 +135,9 @@
 
 Welcome,
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+This is the Code Institute student template for Codeanywhere.
+We have preinstalled all the tools you need to get started.
+It's perfectly ok to use this template as the basis for your project submissions.
 
 You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
 
@@ -156,7 +157,8 @@ To run a backend Python file, type `python3 app.py`, if your Python file is name
 
 A button should appear to click: _Open Preview_ or _Open Browser_.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+In Codeanywhere, you have superuser security privileges by default.
+Therefore, you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
 To log into the Heroku toolbelt CLI:
 
@@ -166,7 +168,9 @@ To log into the Heroku toolbelt CLI:
 4. In Codeanywhere, from the terminal, run `heroku_config`
 5. Paste in your API key when asked
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works.
+This API key is unique and private to you, so do not share it.
+If you accidentally make it public, then you can create a new one with _Regenerate API Key_.
 
 ---
 

@@ -1,4 +1,67 @@
+/*media for 1200 pixels*/
+@media only screen and (max-width: 1200px) {
+  .dates {
+    width: 60%;
+  }
+  .content {
+    width: 40%;
+  }
+}
+
+/*media for 1000 pixels*/
+@media only screen and (max-width: 1000px) {
+  /*Description*/
+  .description div {
+    width: 80%;
+  }
+  .description div:first-child {
+    padding: 0 !important;
+    text-align: center;
+  }
+
+  /*Timeline*/
+  .timeline {
+    display: inline-block;
+  }
+  .dates,
+  .content {
+    width: 80%;
+    margin: 1% auto;
+  }
+
+  .image {
+    padding: 0;
+  }
+}
+
+/*media for 900 pixels*/
+@media only screen and (max-width: 900px) {
+  /*Headings*/
+  .image-heading {
+    height: 30rem;
+  }
+
+  /*section desciptions*/
+  .description {
+    display: inline-block;
+  }
+  .description div:first-child {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5rem;
+  }
+}
+
+/*media for 600 pixels*/
 @media only screen and (max-width: 600px) {
+  .dates > p {
+    font-size: 1.5rem;
+  }
+  figcaption {
+    font-size: 1.3rem;
+  }
+  /*navbar and footer*/
   .navbar ul,
   footer ul {
     display: block;
@@ -10,20 +73,18 @@
     justify-content: center;
   }
 
+  /*headings*/
   .page-header {
     font-size: 2rem;
   }
   .image-heading {
     height: auto;
   }
-  .years {
-    display: inline-block;
-  }
 
+  /*section description*/
   .description {
     display: inline-block;
   }
-
   .description div:first-child {
     display: flex;
     align-items: center;
@@ -32,31 +93,10 @@
   }
 }
 
+/*media for 450 pixels*/
 @media only screen and (max-width: 450px) {
+  /*Headings*/
   .page-header {
     font-size: 1rem;
-  }
-  .years p {
-    font-size: 0.8rem;
-  }
-}
-
-@media only screen and (max-width: 900px) and (min-width: 600px) {
-  .image-heading {
-    height: 30rem;
-  }
-  .description {
-    display: inline-block;
-  }
-
-  .description div:first-child {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 5rem;
-  }
-
-  .years {
-    display: inline-block;
   }
 }

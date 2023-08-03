@@ -17,6 +17,8 @@ As my country of origin doesn't have the same transportation network that the UK
 
 - [Introduction](#introduction)
 - [Wireframe Diagrams](#wireframe-diagram)
+  - Website design idea
+  - Old Idea's that I had and never used
 - [Website Design](#website-design)
   - Color Palete
   - Typography
@@ -33,6 +35,33 @@ As my country of origin doesn't have the same transportation network that the UK
 ---
 
 ## [Wireframe Diagram](#table-of-content)
+
+### <span style="color:#996515">Website Design Idea</span>
+
+![wireframe-1.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fwireframe-1.png)<br>
+Top of design
+![wireframe-2.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fwireframe-2.png)<br>
+Bottom of design
+
+### <span style="color:#996515">Old Idea's that I had and never used</span>
+
+This was an Idea that I had, I was planning to do a history on the different types of lines in the Underground.
+But it became complicated as there was not enough information to go on and all the info was scattered. Between to
+many documents.
+
+![wireframe-3.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fwireframe-3.png)<br>
+Top of design
+![wireframe-4.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fwireframe-4.png)<br>
+Bottom of design
+
+This was a second Idea that I had, I was going to do a website on the different companies on the London Underground.
+One of the Main reasons for not doing it was that there was to many to choose from.
+
+![wireframe-5.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fwireframe-5.png)<br>
+Top of design
+
+![wireframe-6.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fwireframe-6.png)
+Bottom of design
 
 ---
 

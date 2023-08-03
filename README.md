@@ -98,6 +98,22 @@ When I paste the url into the validator:
 
 When I paste the url into the validator:
 
+![css-url-validation.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fcss-url-validation.png)
+
+- there were no errors
+
+styles.css: First time running it:
+
+![css-styles-validation.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fcss-styles-validation.png)
+
+- there were no errors
+
+media.css: First time running it:
+
+![css-media-validation.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fcss-media-validation.png)
+
+- there were no errors
+
 ---
 
 ## [Credits](#table-of-content)

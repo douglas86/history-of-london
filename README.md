@@ -258,6 +258,11 @@ Before
 ![meta-tags-2.png](assets%2Fimages%2Freadme%2Fmeta-tags-2.png)<br>
 After
 
+Problem: The bootstrap styling that has been applied to this branch is messing up my original styling
+
+![contact-page.png](assets%2Fimages%2Freadme%2Fcontact-page.png)
+Before
+
 ---
 
 ## Credits And References

@@ -249,6 +249,15 @@ This is how it looks
 ![navbar-mobile.png](assets%2Fimages%2Freadme%2Fnavbar-mobile.png)<br>
 This is how it is supposed to look
 
+Problem Solved: It turns out that it was a meta tag issue, I had only one meta tag in the 1900s and 2000s page, when
+it should have been 3.
+
+![meta-tags-1.png](assets%2Fimages%2Freadme%2Fmeta-tags-1.png)<br>
+Before
+
+![meta-tags-2.png](assets%2Fimages%2Freadme%2Fmeta-tags-2.png)<br>
+After
+
 ---
 
 ## Credits And References

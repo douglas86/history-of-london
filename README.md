@@ -1,8 +1,16 @@
 # History of London Transportation System
 
----
+<div style="display:flex">
+  <p>
+      <a href="https://jigsaw.w3.org/css-validator/check/referer">
+          <img style="border:0;width:88px;height:31px"
+              src="https://jigsaw.w3.org/css-validator/images/vcss"
+              alt="Valid CSS!" />
+      </a>
+  </p>
+</div>
 
-[HACK]: <> (create introduction here)
+---
 
 ## [Introduction](#table-of-content)
 
@@ -28,6 +36,8 @@ As my country of origin doesn't have the same transportation network that the UK
   - Headers
   - Flexbox
 - [Technology Used](#technology-used)
+  - Languages Used
+  - Frameworks - Libraries - Programs Used
 - [Testing and Validation](#testing-and-validation)
 - [Problems and Bugs](#problems-and-bugs)
   - Navbar
@@ -135,9 +145,91 @@ Footer on Mobile
 
 ## Technology Used
 
+### <span style="color:#AB8E38">Languages Used</span>
+
+- HTML5
+- CSS3
+
+### <span style="color:#AB8E38">Frameworks - Libraries - Programs Used</span>
+
+- Google fonts—for the use of fonts in site
+- GitHub—version control
+- Intellij Idea - IDE (Integrated Development Environment)
+
 ---
 
 ## Testing And Validation
+
+### <span style="color:#AB8E38">Types of Testing</span>
+
+- [w3c Validator 4 HTML](https://validator.w3.org/)
+- [jigsaw 4 CSS](https://jigsaw.w3.org/css-validator/)
+- [Wave 4 testing accessability](https://wave.webaim.org/)
+
+### <span style="color:#AB8E38">w3c validator</span>
+
+This is testing the live site URL
+
+![HTML-validator.png](assets%2Fimages%2Freadme%2FHTML-validator.png)
+
+- 22 Problems were found
+- 17 info errors
+- 5 warning errors
+
+Testing each page:
+
+- home
+  - 22 Problems were found
+  - 17 info errors
+  - 5 warning errors
+- 1900s
+  - 19 Problems were found
+  - 15 info errors
+  - 4 warning errors
+- 2000s
+  - 19 Problems were found
+  - 14 info errors
+  - 5 warning errors
+
+### <span style="color:#AB8E38">Jigsaw</span>
+
+This is testing the live site URL
+
+![CSS-validator.png](assets%2Fimages%2Freadme%2FCSS-validator.png)
+
+- There were no errors found
+
+Testing each css file:
+
+- styles
+  - There were no errors found
+- media
+  - There were no errors found
+
+### <span style="color:#AB8E38">Wave</span>
+
+![wave-validator.png](assets%2Fimages%2Freadme%2Fwave-validator.png)
+
+Wave only tests the live site:
+
+- Home
+  - 29 Problems were found
+  - 4 contrast errors
+  - 6 alerts
+  - 11 features
+  - 8 structural elements
+- 1900s
+  - 45 Problems were found
+  - 4 contrast errors
+  - 18 alerts
+  - 15 features
+  - 8 structural elements
+- 2000s
+  - 38 Problems were found
+  - 4 contrast errors
+  - 13 alerts
+  - 13 features
+  - 8 structural elements
 
 ---
 
@@ -162,6 +254,7 @@ This is how it is supposed to look
 
 [Luke Buchanan - Mentor](https://www.linkedin.com/in/lukebuchanan67/)<br>
 [Code Institute - Bootcamp](https://codeinstitute.net/)
+[Inspiration for this readme file](https://github.com/PedroCristo/portfolio_project_1#languages-used)
 
 ### <span style="color:#AB8E38">References for information</span>
 

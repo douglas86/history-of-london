@@ -51,9 +51,10 @@ As my country of origin doesn't have the same transportation network that the UK
 
 ### <span style="color:#996515">Website Design Idea</span>
 
-![wireframe-1.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fwireframe-1.png)<br>
+![wireframe-1.png](assets%2Fimages%2Freadme%2Fwireframe-1.png)<br>
 Top of design
-![wireframe-2.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fwireframe-2.png)<br>
+
+![wireframe-2.png](assets%2Fimages%2Freadme%2Fwireframe-2.png)<br>
 Bottom of design
 
 ### <span style="color:#996515">Old idea that I had and never used</span>
@@ -62,18 +63,19 @@ This was an Idea that I had, I was planning to do a history on the different typ
 But it became complicated as there was not enough information to go on and all the info was scattered. Between to
 many documents.
 
-![wireframe-3.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fwireframe-3.png)<br>
+![wireframe-3.png](assets%2Fimages%2Freadme%2Fwireframe-3.png)<br>
 Top of design
-![wireframe-4.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fwireframe-4.png)<br>
+
+![wireframe-4.png](assets%2Fimages%2Freadme%2Fwireframe-4.png)<br>
 Bottom of design
 
 This was a second idea that I had, I was going to do a website on the different companies on the London Underground.
 One of the Main reasons for not doing it was that there were too many to choose from.
 
-![wireframe-5.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fwireframe-5.png)<br>
+![wireframe-5.png](assets%2Fimages%2Freadme%2Fwireframe-5.png)<br>
 Top of design
 
-![wireframe-6.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fwireframe-6.png)
+![wireframe-6.png](assets%2Fimages%2Freadme%2Fwireframe-6.png)<br>
 Bottom of design
 
 ---
@@ -82,7 +84,7 @@ Bottom of design
 
 ### <span style="color:#996515">Color Palete</span>
 
-![colour-palete.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fcolour-palete.png)
+![colour-palete.png](assets%2Fimages%2Freadme%2Fcolour-palete.png)<br>
 
 [Website of Color Palete](https://mycolor.space/?hex=%23D6B65E&sub=1)
 
@@ -115,30 +117,30 @@ Bottom of design
 
 ### <span style="color:#AB8E38">Headers</span>
 
-![navbar-desktop.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fnavbar-desktop.png)<br>
+![navbar-desktop.png](assets%2Fimages%2Freadme%2Fnavbar-desktop.png)<br>
 Navbar on Desktop
 
-![navbar-mobile.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fnavbar-mobile.png)<br>
+![navbar-mobile.png](assets%2Fimages%2Freadme%2Fnavbar-mobile.png)<br>
 Navbar on Mobile
 
-![Page Heading.png](assets%2Fimages%2Freadme%2Fscreenshots%2FPage%20Heading.png)<br>
+![Page Heading.png](assets%2Fimages%2Freadme%2FPage%20Heading.png)<br>
 Page Heading
 
-![Image-heading.png](assets%2Fimages%2Freadme%2Fscreenshots%2FImage-heading.png)<br>
+![Image-heading.png](assets%2Fimages%2Freadme%2FImage-heading.png)<br>
 Image Heading of Landing Page
 
 ### <span style="color:#AB8E38">Flexbox</span>
 
-![Flexbox.png](assets%2Fimages%2Freadme%2Fscreenshots%2FFlexbox.png)<br>
+![Flexbox.png](assets%2Fimages%2Freadme%2FFlexbox.png)<br>
 Using Flexbox to split the screen into 2<br>
 Paragraph on the left and images on the right
 
 ### <span style="color:#AB8E38">Footer</span>
 
-![footer-desktop.png](assets%2Fimages%2Freadme%2Fscreenshots%2Ffooter-desktop.png)<br>
+![footer-desktop.png](assets%2Fimages%2Freadme%2Ffooter-desktop.png)<br>
 Footer on Desktop
 
-![footer-mobile.png](assets%2Fimages%2Freadme%2Fscreenshots%2Ffooter-mobile.png)<br>
+![footer-mobile.png](assets%2Fimages%2Freadme%2Ffooter-mobile.png)<br>
 Footer on Mobile
 
 ---
@@ -171,7 +173,7 @@ Footer on Mobile
 
 This is testing the live site URL
 
-![HTML-validator.png](assets%2Fimages%2Freadme%2FHTML-validator.png)
+![HTML-validator.png](assets%2Fimages%2Freadme%2FHTML-validator.png)<br>
 
 - 22 Problems were found
 - 17 info errors
@@ -196,7 +198,7 @@ Testing each page:
 
 This is testing the live site URL
 
-![CSS-validator.png](assets%2Fimages%2Freadme%2FCSS-validator.png)
+![CSS-validator.png](assets%2Fimages%2Freadme%2FCSS-validator.png)<br>
 
 - There were no errors found
 
@@ -209,7 +211,7 @@ Testing each css file:
 
 ### <span style="color:#AB8E38">Wave</span>
 
-![wave-validator.png](assets%2Fimages%2Freadme%2Fwave-validator.png)
+![wave-validator.png](assets%2Fimages%2Freadme%2Fwave-validator.png)<br>
 
 Wave only tests the live site:
 
@@ -241,10 +243,10 @@ Wave only tests the live site:
 Problem: The navbar on the 1900s and 2000s page doesn't change on a smaller device,
 but it is correct on the Landing page.
 
-![navbar-desktop.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fnavbar-desktop.png)<br>
+![navbar-desktop.png](assets%2Fimages%2Freadme%2Fnavbar-desktop.png)<br>
 This is how it looks
 
-![navbar-mobile.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fnavbar-mobile.png)<br>
+![navbar-mobile.png](assets%2Fimages%2Freadme%2Fnavbar-mobile.png)<br>
 This is how it is supposed to look
 
 ---
@@ -253,14 +255,14 @@ This is how it is supposed to look
 
 ### <span style="color:#AB8E38">Credits</span>
 
-[Luke Buchanan - Mentor](https://www.linkedin.com/in/lukebuchanan67/)<br>
-[Code Institute - Bootcamp](https://codeinstitute.net/)
-[Inspiration for this readme file](https://github.com/PedroCristo/portfolio_project_1#languages-used)
+- [Luke Buchanan - Mentor](https://www.linkedin.com/in/lukebuchanan67/)
+- [Code Institute - Bootcamp](https://codeinstitute.net/)
+- [Inspiration for this readme file](https://github.com/PedroCristo/portfolio_project_1#languages-used)
 
 ### <span style="color:#AB8E38">References for information</span>
 
-[History of the London Underground](https://en.wikipedia.org/wiki/History_of_the_London_Underground)<br>
-[Busses in London](https://en.wikipedia.org/wiki/Buses_in_London)<br>
-[Omnibus or Horsebus](https://en.wikipedia.org/wiki/Horsebus#:~:text=A%20horse%2Dbus%20or%20horse,means%20of%20transportation%20in%20cities.)
+- [History of the London Underground](https://en.wikipedia.org/wiki/History_of_the_London_Underground)
+- [Busses in London](https://en.wikipedia.org/wiki/Buses_in_London)
+- [Omnibus or Horsebus](https://en.wikipedia.org/wiki/Horsebus#:~:text=A%20horse%2Dbus%20or%20horse,means%20of%20transportation%20in%20cities.)
 
 ---

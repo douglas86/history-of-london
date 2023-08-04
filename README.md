@@ -24,14 +24,14 @@ As my country of origin doesn't have the same transportation network that the UK
 ## Table of Content
 
 - [Introduction](#introduction)
-- [Wireframe Diagrams](#wireframe-diagram)
-  - Website design idea
-  - Old Idea's that I had and never used
 - [Website Design](#website-design)
   - Color Palete
   - Typography
   - Images
   - Videos
+- [Wireframe Diagrams](#wireframe-diagram)
+  - Website design idea
+  - Old Idea's that I had and never used
 - [Features](#features)
   - Headers
   - Flexbox
@@ -44,39 +44,6 @@ As my country of origin doesn't have the same transportation network that the UK
 - [Credits and references](#credits-and-references)
   - Credits
   - References for information
-
----
-
-## [Wireframe Diagram](#table-of-content)
-
-### <span style="color:#996515">Website Design Idea</span>
-
-![wireframe-1.png](assets%2Fimages%2Freadme%2Fwireframe-1.png)<br>
-Top of design
-
-![wireframe-2.png](assets%2Fimages%2Freadme%2Fwireframe-2.png)<br>
-Bottom of design
-
-### <span style="color:#996515">Old idea that I had and never used</span>
-
-This was an Idea that I had, I was planning to do a history on the different types of lines in the Underground.
-But it became complicated as there was not enough information to go on and all the info was scattered. Between to
-many documents.
-
-![wireframe-3.png](assets%2Fimages%2Freadme%2Fwireframe-3.png)<br>
-Top of design
-
-![wireframe-4.png](assets%2Fimages%2Freadme%2Fwireframe-4.png)<br>
-Bottom of design
-
-This was a second idea that I had, I was going to do a website on the different companies on the London Underground.
-One of the Main reasons for not doing it was that there were too many to choose from.
-
-![wireframe-5.png](assets%2Fimages%2Freadme%2Fwireframe-5.png)<br>
-Top of design
-
-![wireframe-6.png](assets%2Fimages%2Freadme%2Fwireframe-6.png)<br>
-Bottom of design
 
 ---
 
@@ -110,6 +77,39 @@ Bottom of design
 - There is one YouTube video that was downloaded from the internet
 - This video takes you through a bit of the history of the omnibus to the electric bus
 - Attributes on the video element: autoplay, muted, controls, loop
+
+---
+
+## [Wireframe Diagram](#table-of-content)
+
+### <span style="color:#996515">Website Design Idea</span>
+
+![wireframe-1.png](assets%2Fimages%2Freadme%2Fwireframe-1.png)<br>
+Top of design
+
+![wireframe-2.png](assets%2Fimages%2Freadme%2Fwireframe-2.png)<br>
+Bottom of design
+
+### <span style="color:#996515">Old idea that I had and never used</span>
+
+This was an Idea that I had, I was planning to do a history on the different types of lines in the Underground.
+But it became complicated as there was not enough information to go on and all the info was scattered. Between to
+many documents.
+
+![wireframe-3.png](assets%2Fimages%2Freadme%2Fwireframe-3.png)<br>
+Top of design
+
+![wireframe-4.png](assets%2Fimages%2Freadme%2Fwireframe-4.png)<br>
+Bottom of design
+
+This was a second idea that I had, I was going to do a website on the different companies on the London Underground.
+One of the Main reasons for not doing it was that there were too many to choose from.
+
+![wireframe-5.png](assets%2Fimages%2Freadme%2Fwireframe-5.png)<br>
+Top of design
+
+![wireframe-6.png](assets%2Fimages%2Freadme%2Fwireframe-6.png)<br>
+Bottom of design
 
 ---
 

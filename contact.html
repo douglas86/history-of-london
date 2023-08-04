@@ -55,7 +55,11 @@
       <h1 class="page-header">Contact Form</h1>
     </header>
 
-    <form>
+    <form
+      method="POST"
+      target="_blank"
+      action="https://formdump.codeinstitute.net/"
+    >
       <div class="mb-3">
         <label for="exampleInputEmail1" class="form-label">Email address</label>
         <input
@@ -70,7 +74,7 @@
       </div>
       <div class="mb-3">
         <label for="notes" class="form-label">Notes</label>
-        <textarea class="form-control" id="notes"></textarea>
+        <input type="text" name="postData" class="form-control" id="notes" />
       </div>
       <div class="mb-3 form-check">
         <input

@@ -56,7 +56,7 @@ Top of design
 ![wireframe-2.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fwireframe-2.png)<br>
 Bottom of design
 
-### <span style="color:#996515">Old Idea's that I had and never used</span>
+### <span style="color:#996515">Old idea that I had and never used</span>
 
 This was an Idea that I had, I was planning to do a history on the different types of lines in the Underground.
 But it became complicated as there was not enough information to go on and all the info was scattered. Between to
@@ -67,8 +67,8 @@ Top of design
 ![wireframe-4.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fwireframe-4.png)<br>
 Bottom of design
 
-This was a second Idea that I had, I was going to do a website on the different companies on the London Underground.
-One of the Main reasons for not doing it was that there was to many to choose from.
+This was a second idea that I had, I was going to do a website on the different companies on the London Underground.
+One of the Main reasons for not doing it was that there were too many to choose from.
 
 ![wireframe-5.png](assets%2Fimages%2Freadme%2Fscreenshots%2Fwireframe-5.png)<br>
 Top of design
@@ -155,6 +155,7 @@ Footer on Mobile
 - Google fonts—for the use of fonts in site
 - GitHub—version control
 - Intellij Idea - IDE (Integrated Development Environment)
+- Google Chrome—for research and dev tools
 
 ---
 
@@ -260,6 +261,6 @@ This is how it is supposed to look
 
 [History of the London Underground](https://en.wikipedia.org/wiki/History_of_the_London_Underground)<br>
 [Busses in London](https://en.wikipedia.org/wiki/Buses_in_London)<br>
-[Omnibuse or Horsebus](https://en.wikipedia.org/wiki/Horsebus#:~:text=A%20horse%2Dbus%20or%20horse,means%20of%20transportation%20in%20cities.)
+[Omnibus or Horsebus](https://en.wikipedia.org/wiki/Horsebus#:~:text=A%20horse%2Dbus%20or%20horse,means%20of%20transportation%20in%20cities.)
 
 ---

@@ -47,40 +47,32 @@
       <h1 class="page-header">Contact Form</h1>
     </header>
 
-    <form
-      method="POST"
-      target="_blank"
-      action="https://formdump.codeinstitute.net/"
-    >
-      <div class="mb-3">
-        <label for="exampleInputEmail1" class="form-label">Email address</label>
-        <input
-          type="email"
-          class="form-control"
-          id="exampleInputEmail1"
-          aria-describedby="emailHelp"
-        />
-        <div id="emailHelp" class="form-text">
-          We'll never share your email with anyone else.
-        </div>
-      </div>
-      <div class="mb-3">
-        <label for="notes" class="form-label">Notes</label>
-        <input type="text" name="postData" class="form-control" id="notes" />
-      </div>
-      <div class="mb-3 form-check">
-        <input
-          type="checkbox"
-          class="form-check-input"
-          id="exampleCheck1"
-          required
-        />
-        <label class="form-check-label" for="exampleCheck1"
-          >Check me if all is correct</label
-        >
-      </div>
-      <button type="submit" class="btn btn-primary">Submit</button>
-    </form>
+    <div class="form">
+      <form
+        method="POST"
+        target="_blank"
+        action="https://formdump.codeinstitute.net/"
+      >
+        <label>
+          <input type="email" placeholder="Email" required />
+        </label>
+
+        <br />
+
+        <label>
+          <input
+            type="text"
+            placeholder="Note to receiver"
+            name="postData"
+            required
+          />
+        </label>
+
+        <br />
+
+        <button type="submit">Submit</button>
+      </form>
+    </div>
 
     <!-- FIX: footer needs to be sitting right at the bottom of the page -->
     <!-- footer-->

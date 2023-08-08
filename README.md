@@ -84,6 +84,9 @@ As my country of origin doesn't have the same transportation network that the UK
 
 ### Website Design Idea
 
+- Although this is the wireframe of my design
+- My design has changed slightly since then
+
 ![wireframe-1.png](assets%2Fimages%2Freadme%2Fwireframe-1.png)
 Top of design
 
@@ -142,7 +145,7 @@ One of the Main reasons for not doing it was that there were too many to choose 
 ![Flexbox.png](assets%2Fimages%2Freadme%2FFlexbox.png)
 
 - Using Flexbox to split the screen into 2
-- Paragraph on the left and images on the right
+- Paragraph on the left and images and videos on the right
 
 ### Footer
 

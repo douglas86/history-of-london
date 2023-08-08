@@ -49,30 +49,30 @@ As my country of origin doesn't have the same transportation network that the UK
 
 ## [Website Design](#table-of-content)
 
-### <span style="color:#996515">Color Palete</span>
+### Color Palete
 
-![colour-palete.png](assets%2Fimages%2Freadme%2Fcolour-palete.png)<br>
+![colour-palete.png](assets%2Fimages%2Freadme%2Fcolour-palete.png)
 
 [Website of Color Palete](https://mycolor.space/?hex=%23D6B65E&sub=1)
 
-### <span style="color:#996515">Typograpy</span>
+### Typograpy
 
 - Google fonts were used to display my text using a link tag in each html document
-- Once the Link was there, I used font-family with 3 fonts to fall back if needed
+- Once the Link was there, I used font-family with three fonts to fall back if needed
 - Lumanosimo as the Primary font
 - cursive as the Secondry font
 - Delicious Handrawn as the third font
 
-### <span style="color:#996515">Images</span>
+### Images
 
 - Each page has a main heading depicting the transportation at the time
-- The Omnibus section of the Landing page has 2 images
+- The Omnibus section of the Landing page has two images
 - The one image describes what an Omnibus is the other is just a short display
-- There are 5 images for the London Underground split between 3 pages
-- There are 3 images for the Bus section on 2 of the pages
-- There are 4 images on the footer with links to take you to the source of were I got the information from
+- There are five images for the London Underground split between three pages
+- There are three images for the Bus section on 2 of the pages
+- There are four images on the footer with links to take you to the source of were I got the information from
 
-### <span style="color:#996515">Videos</span>
+### Videos
 
 - There is one YouTube video that was downloaded from the internet
 - This video takes you through a bit of the history of the omnibus to the electric bus
@@ -82,77 +82,88 @@ As my country of origin doesn't have the same transportation network that the UK
 
 ## [Wireframe Diagram](#table-of-content)
 
-### <span style="color:#996515">Website Design Idea</span>
+### Website Design Idea
 
-![wireframe-1.png](assets%2Fimages%2Freadme%2Fwireframe-1.png)<br>
+![wireframe-1.png](assets%2Fimages%2Freadme%2Fwireframe-1.png)
 Top of design
 
-![wireframe-2.png](assets%2Fimages%2Freadme%2Fwireframe-2.png)<br>
+![wireframe-2.png](assets%2Fimages%2Freadme%2Fwireframe-2.png)
 Bottom of design
 
-### <span style="color:#996515">Old idea that I had and never used</span>
+### Old idea that I had and never used
 
 This was an Idea that I had, I was planning to do a history on the different types of lines in the Underground.
 But it became complicated as there was not enough information to go on and all the info was scattered. Between to
 many documents.
 
-![wireframe-3.png](assets%2Fimages%2Freadme%2Fwireframe-3.png)<br>
-Top of design
+![wireframe-3.png](assets%2Fimages%2Freadme%2Fwireframe-3.png)
 
-![wireframe-4.png](assets%2Fimages%2Freadme%2Fwireframe-4.png)<br>
-Bottom of design
+- Top of design
+
+![wireframe-4.png](assets%2Fimages%2Freadme%2Fwireframe-4.png)
+
+- Bottom of design
 
 This was a second idea that I had, I was going to do a website on the different companies on the London Underground.
 One of the Main reasons for not doing it was that there were too many to choose from.
 
-![wireframe-5.png](assets%2Fimages%2Freadme%2Fwireframe-5.png)<br>
-Top of design
+![wireframe-5.png](assets%2Fimages%2Freadme%2Fwireframe-5.png)
 
-![wireframe-6.png](assets%2Fimages%2Freadme%2Fwireframe-6.png)<br>
-Bottom of design
+- Top of design
+
+![wireframe-6.png](assets%2Fimages%2Freadme%2Fwireframe-6.png)
+
+- Bottom of design
 
 ---
 
 ## Features
 
-### <span style="color:#AB8E38">Headers</span>
+### Headers
 
-![navbar-desktop.png](assets%2Fimages%2Freadme%2Fnavbar-desktop.png)<br>
-Navbar on Desktop
+![navbar-desktop.png](assets%2Fimages%2Freadme%2Fnavbar-desktop.png)
 
-![navbar-mobile.png](assets%2Fimages%2Freadme%2Fnavbar-mobile.png)<br>
-Navbar on Mobile
+- Navbar on Desktop
 
-![Page Heading.png](assets%2Fimages%2Freadme%2FPage%20Heading.png)<br>
-Page Heading
+![navbar-mobile.png](assets%2Fimages%2Freadme%2Fnavbar-mobile.png)
 
-![Image-heading.png](assets%2Fimages%2Freadme%2FImage-heading.png)<br>
-Image Heading of Landing Page
+- Navbar on Mobile
 
-### <span style="color:#AB8E38">Flexbox</span>
+![Page Heading.png](assets%2Fimages%2Freadme%2FPage%20Heading.png)
 
-![Flexbox.png](assets%2Fimages%2Freadme%2FFlexbox.png)<br>
-Using Flexbox to split the screen into 2<br>
-Paragraph on the left and images on the right
+- Page Heading
 
-### <span style="color:#AB8E38">Footer</span>
+![Image-heading.png](assets%2Fimages%2Freadme%2FImage-heading.png)
 
-![footer-desktop.png](assets%2Fimages%2Freadme%2Ffooter-desktop.png)<br>
-Footer on Desktop
+- Image Heading of Landing Page
 
-![footer-mobile.png](assets%2Fimages%2Freadme%2Ffooter-mobile.png)<br>
-Footer on Mobile
+### Flexbox
+
+![Flexbox.png](assets%2Fimages%2Freadme%2FFlexbox.png)
+
+- Using Flexbox to split the screen into 2
+- Paragraph on the left and images on the right
+
+### Footer
+
+![footer-desktop.png](assets%2Fimages%2Freadme%2Ffooter-desktop.png)
+
+- Footer on Desktop
+
+![footer-mobile.png](assets%2Fimages%2Freadme%2Ffooter-mobile.png)
+
+- Footer on Mobile
 
 ---
 
 ## Technology Used
 
-### <span style="color:#AB8E38">Languages Used</span>
+### Languages Used
 
 - HTML5
 - CSS3
 
-### <span style="color:#AB8E38">Frameworks - Libraries - Programs Used</span>
+### Frameworks - Libraries - Programs Used
 
 - Google fonts—for the use of fonts in site
 - GitHub—version control
@@ -163,17 +174,17 @@ Footer on Mobile
 
 ## Testing And Validation
 
-### <span style="color:#AB8E38">Types of Testing</span>
+### Types of Testing
 
 - [w3c Validator 4 HTML](https://validator.w3.org/)
 - [jigsaw 4 CSS](https://jigsaw.w3.org/css-validator/)
 - [Wave 4 testing accessability](https://wave.webaim.org/)
 
-### <span style="color:#AB8E38">w3c validator</span>
+### w3c validator
 
 This is testing the live site URL
 
-![HTML-validator.png](assets%2Fimages%2Freadme%2FHTML-validator.png)<br>
+![HTML-validator.png](assets%2Fimages%2Freadme%2FHTML-validator.png)
 
 - 22 Problems were found
 - 17 info errors
@@ -194,11 +205,11 @@ Testing each page:
   - 14 info errors
   - 5 warning errors
 
-### <span style="color:#AB8E38">Jigsaw</span>
+### Jigsaw
 
 This is testing the live site URL
 
-![CSS-validator.png](assets%2Fimages%2Freadme%2FCSS-validator.png)<br>
+![CSS-validator.png](assets%2Fimages%2Freadme%2FCSS-validator.png)
 
 - There were no errors found
 
@@ -209,9 +220,9 @@ Testing each css file:
 - media
   - There were no errors found
 
-### <span style="color:#AB8E38">Wave</span>
+### Wave
 
-![wave-validator.png](assets%2Fimages%2Freadme%2Fwave-validator.png)<br>
+![wave-validator.png](assets%2Fimages%2Freadme%2Fwave-validator.png)
 
 Wave only tests the live site:
 
@@ -238,42 +249,51 @@ Wave only tests the live site:
 
 ## Problems And Bugs
 
-### <span style="color:#AB8E38">Navbar</span>
+### _Navbar_
 
-Problem: The navbar on the 1900s and 2000s page doesn't change on a smaller device,
-but it is correct on the Landing page.
+### Problem 1
 
-![navbar-desktop.png](assets%2Fimages%2Freadme%2Fnavbar-desktop.png)<br>
-This is how it looks
+- Problem: The navbar on the 1900s and 2000s page doesn't change on a smaller device,
+  but it is correct on the Landing page.
 
-![navbar-mobile.png](assets%2Fimages%2Freadme%2Fnavbar-mobile.png)<br>
-This is how it is supposed to look
+![navbar-desktop.png](assets%2Fimages%2Freadme%2Fnavbar-desktop.png)
 
-Problem Solved: It turns out that it was a meta tag issue, I had only one meta tag in the 1900s and 2000s page, when
-it should have been 3.
+- This is how it looks
 
-![meta-tags-1.png](assets%2Fimages%2Freadme%2Fmeta-tags-1.png)<br>
-Before
+![navbar-mobile.png](assets%2Fimages%2Freadme%2Fnavbar-mobile.png)
 
-![meta-tags-2.png](assets%2Fimages%2Freadme%2Fmeta-tags-2.png)<br>
-After
+- This is how it is supposed to look
 
-Problem: The bootstrap styling that has been applied to this branch is messing up my original styling
+- Problem Solved: It turns out that it was a meta tag issue, I had only one meta tag in the 1900s and 2000s page, when
+  it should have been 3.
+
+![meta-tags-1.png](assets%2Fimages%2Freadme%2Fmeta-tags-1.png)
+
+- Before
+
+![meta-tags-2.png](assets%2Fimages%2Freadme%2Fmeta-tags-2.png)
+
+- After
+
+### Problem 2
+
+- Problem: The bootstrap styling that has been applied to this branch is messing up my original styling
 
 ![contact-page.png](assets%2Fimages%2Freadme%2Fcontact-page.png)
-Before
+
+- Before
 
 ---
 
 ## Credits And References
 
-### <span style="color:#AB8E38">Credits</span>
+### Credits
 
 - [Luke Buchanan - Mentor](https://www.linkedin.com/in/lukebuchanan67/)
 - [Code Institute - Bootcamp](https://codeinstitute.net/)
 - [Inspiration for this readme file](https://github.com/PedroCristo/portfolio_project_1#languages-used)
 
-### <span style="color:#AB8E38">References for information</span>
+### References for information
 
 - [History of the London Underground](https://en.wikipedia.org/wiki/History_of_the_London_Underground)
 - [Busses in London](https://en.wikipedia.org/wiki/Buses_in_London)

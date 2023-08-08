@@ -1,177 +1,305 @@
-<h1>Project 1: HTML & CSS</h1>
+# History of London Transportation System
 
-<hr>
-
-<h2 id="table">Table of Content</h2>
-
-<ul>
-    <li><a href="#how">How this Document works?</a></li>
-    <li><a href="#description">Description</a></li>
-    <ul>
-        <li><a href="#technology_used">Technologies that I used in this project</a></li>
-        <li><a href="#screen_shots">Screenshots of website</a></li>
-        <li><a href="#wireframes">Wireframe Diagrams</a></li>
-    </ul>
-    <li><a href="#install-project">How to install and run this Project</a></li>
-    <li><a href="#use-project">How to use this project</a></li>
-    <li><a href="#credits">Credits</a></li>
-</ul>
-
-<hr>
-
-<h2 id="how"><a href="#table">How this Document works?</a></h2>
-
-<ul>
-    <li>Above is the table of contents or the index page to point to the varied topics in this document</li>
-    <li>Each Topic heading is a link that will direct you right back to the index page</li>
-    <li>Right at the bottom of this page, I have got a section for all my accreditation in this project which is clickable links</li>
-</ul>
-
-<hr>
-
-<h2 id="description"><a href="#table">Project Description</a></h2>
-
-<h3 id="technology_used">Technologies that I used in this project</h3>
-
-<div style="display: flex">
-    <figure>
-    <img height="80" width="80" src="assets/images/readme/tech_used/logo-2582748_960_720.webp" alt="html image" >
-    <figcaption>HTML</figcaption>
-</figure>
-
-<figure>
-    <img height="80" width="80" src="assets/images/readme/tech_used/CSS3.webp" alt="html image" >
-    <figcaption>CSS</figcaption>
-</figure>
-
-<figure>
-    <img height="80" width="80" src="assets/images/readme/tech_used/GitHub-Logo.png" alt="html image" >
-    <figcaption>GitHub</figcaption>
-</figure>
-
-<figure>
-    <img height="80" width="80" src="assets/images/readme/tech_used/IntelliJ_IDEA_Icon.svg.png" alt="html image" >
-    <figcaption>Intellij</figcaption>
-</figure>
-
-<figure>
-    <img height="80" width="80" src="assets/images/readme/tech_used/channels4_profile.jpg" alt="html image" >
-    <figcaption>VS code</figcaption>
-</figure>
+<div style="display:flex">
+  <p>
+      <a href="https://jigsaw.w3.org/css-validator/check/referer">
+          <img style="border:0;width:88px;height:31px"
+              src="https://jigsaw.w3.org/css-validator/images/vcss"
+              alt="Valid CSS!" />
+      </a>
+  </p>
 </div>
-
-<h3 id="screen_shots">Screen shots of website</h3>
-
-<h4>Header Section</h4>
-
-<figure>
-    <img src="assets/images/readme/screenshots/header.png" alt="html image" >
-    <figcaption>This is the image of the home page with navbar on top</figcaption>
-</figure>
-
-<h3 id="wireframes">Wireframe Diagrams</h3>
-
-<h4>Wireframe diagram that I am current using</h4>
-
-<figure>
-    <figcaption>Wireframe at the top of drawing</figcaption>
-    <img src="assets/images/readme/screenshots/wireframe-1.png" alt="wireframe diagram of my site" >
-</figure>
-
-<figure>
-    <figcaption>Wireframe at the bottom of the drawing</figcaption>
-    <img src="assets/images/readme/screenshots/wireframe-3.png" alt="wireframe diagram of my site" >
-</figure>
-
-<figure>
-    <figcaption>What I am wanting the subsections to look like</figcaption>
-    <img src="assets/images/readme/screenshots/wireframe-2.png" alt="wireframe diagram of my site" >
-</figure>
-
-<h4>Old Wireframe Diagrams that I decided not to use</h4>
-
-<figure>
-    <figcaption>Top of second design</figcaption>
-    <figcaption>I decided not to take this drawing as it became to lengthy and complicated</figcaption>
-    <img src="assets/images/readme/screenshots/wireframe-4.png" alt="wireframe diagram of my site" >
-</figure>
-
-<figure>
-    <figcaption>Bottom of second design</figcaption>
-    <img src="assets/images/readme/screenshots/wireframe-5.png" alt="wireframe diagram of my site" >
-</figure>
-
-<figure>
-    <figcaption>Top of third design</figcaption>
-    <figcaption>I decided not to do it on the different companies as there is to many companies to choose from in London</figcaption>
-    <img src="assets/images/readme/screenshots/wireframe-6.png" alt="wireframe diagram of my site" >
-</figure>
-
-<figure>
-    <figcaption>Bottom of third design</figcaption>
-    <img src="assets/images/readme/screenshots/wireframe-7.png" alt="wireframe diagram of my site" >
-</figure>
-
-<hr>
-
-<h2 id="install-project"><a href="#table">How to install and run this Project</a></h2>
-
-<hr>
-
-<h2 id="use-project"><a href="#table">How to use this project</a></h2>
-
-<hr>
-
-<h2 id="credits"><a href="#table">Credits</a></h2>
-
-<ul>
-    <li><a href="https://www.linkedin.com/in/lukebuchanan67/" style="text-decoration: none; color: aqua" target="_blank">Luke Buchanan - Mentor</a></li>
-    <li><a href="https://codeinstitute.net/" style="text-decoration: none; color: aqua" target="_blank">Code Institute - Bootcamp</a></li>
-</ul>
-
-<hr>
-
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
-Welcome,
-
-This is the Code Institute student template for Codeanywhere.
-We have preinstalled all the tools you need to get started.
-It's perfectly ok to use this template as the basis for your project submissions.
-
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
-
-## Codeanywhere Reminders
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
-
-`python3 -m http.server`
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere, you have superuser security privileges by default.
-Therefore, you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works.
-This API key is unique and private to you, so do not share it.
-If you accidentally make it public, then you can create a new one with _Regenerate API Key_.
 
 ---
 
-Happy coding!
+## [Introduction](#table-of-content)
+
+This is my First Milestone Project with Code Insitute.
+
+I thought of building a website on the history of Transportation in London from the 1800s.
+As my country of origin doesn't have the same transportation network that the UK has to offer.
+
+---
+
+## Table of Content
+
+- [Introduction](#introduction)
+- [Website Design](#website-design)
+  - Color Palete
+  - Typography
+  - Images
+  - Videos
+- [Wireframe Diagrams](#wireframe-diagram)
+  - Website design idea
+  - Old Idea's that I had and never used
+- [Features](#features)
+  - Headers
+  - Flexbox
+- [Technology Used](#technology-used)
+  - Languages Used
+  - Frameworks - Libraries - Programs Used
+- [Testing and Validation](#testing-and-validation)
+- [Problems and Bugs](#problems-and-bugs)
+  - Navbar
+- [Credits and references](#credits-and-references)
+  - Credits
+  - References for information
+
+---
+
+## [Website Design](#table-of-content)
+
+### Color Palete
+
+![colour-palete.png](assets%2Fimages%2Freadme%2Fcolour-palete.png)
+
+[Website of Color Palete](https://mycolor.space/?hex=%23D6B65E&sub=1)
+
+### Typograpy
+
+- Google fonts were used to display my text using a link tag in each html document
+- Once the Link was there, I used font-family with three fonts to fall back if needed
+- Lumanosimo as the Primary font
+- cursive as the Secondry font
+- Delicious Handrawn as the third font
+
+### Images
+
+- Each page has a main heading depicting the transportation at the time
+- The Omnibus section of the Landing page has two images
+- The one image describes what an Omnibus is the other is just a short display
+- There are five images for the London Underground split between three pages
+- There are three images for the Bus section on 2 of the pages
+- There are four images on the footer with links to take you to the source of were I got the information from
+
+### Videos
+
+- There is one YouTube video that was downloaded from the internet
+- This video takes you through a bit of the history of the omnibus to the electric bus
+- Attributes on the video element: autoplay, muted, controls, loop
+
+---
+
+## [Wireframe Diagram](#table-of-content)
+
+### Website Design Idea
+
+- Although this is the wireframe of my design
+- My design has changed slightly since then
+
+![wireframe-1.png](assets%2Fimages%2Freadme%2Fwireframe-1.png)
+Top of design
+
+![wireframe-2.png](assets%2Fimages%2Freadme%2Fwireframe-2.png)
+Bottom of design
+
+### Old idea that I had and never used
+
+This was an Idea that I had, I was planning to do a history on the different types of lines in the Underground.
+But it became complicated as there was not enough information to go on and all the info was scattered. Between to
+many documents.
+
+![wireframe-3.png](assets%2Fimages%2Freadme%2Fwireframe-3.png)
+
+- Top of design
+
+![wireframe-4.png](assets%2Fimages%2Freadme%2Fwireframe-4.png)
+
+- Bottom of design
+
+This was a second idea that I had, I was going to do a website on the different companies on the London Underground.
+One of the Main reasons for not doing it was that there were too many to choose from.
+
+![wireframe-5.png](assets%2Fimages%2Freadme%2Fwireframe-5.png)
+
+- Top of design
+
+![wireframe-6.png](assets%2Fimages%2Freadme%2Fwireframe-6.png)
+
+- Bottom of design
+
+---
+
+## Features
+
+### Headers
+
+![navbar-desktop.png](assets%2Fimages%2Freadme%2Fnavbar-desktop.png)
+
+- Navbar on Desktop
+
+![navbar-mobile.png](assets%2Fimages%2Freadme%2Fnavbar-mobile.png)
+
+- Navbar on Mobile
+
+![Page Heading.png](assets%2Fimages%2Freadme%2FPage%20Heading.png)
+
+- Page Heading
+
+![Image-heading.png](assets%2Fimages%2Freadme%2FImage-heading.png)
+
+- Image Heading of Landing Page
+
+### Flexbox
+
+![Flexbox.png](assets%2Fimages%2Freadme%2FFlexbox.png)
+
+- Using Flexbox to split the screen into 2
+- Paragraph on the left and images and videos on the right
+
+### Footer
+
+![footer-desktop.png](assets%2Fimages%2Freadme%2Ffooter-desktop.png)
+
+- Footer on Desktop
+
+![footer-mobile.png](assets%2Fimages%2Freadme%2Ffooter-mobile.png)
+
+- Footer on Mobile
+
+---
+
+## Technology Used
+
+### Languages Used
+
+- HTML5
+- CSS3
+
+### Frameworks - Libraries - Programs Used
+
+- Google fonts—for the use of fonts in site
+- GitHub—version control
+- Intellij Idea - IDE (Integrated Development Environment)
+- Google Chrome—for research and dev tools
+
+---
+
+## Testing And Validation
+
+### Types of Testing
+
+- [w3c Validator 4 HTML](https://validator.w3.org/)
+- [jigsaw 4 CSS](https://jigsaw.w3.org/css-validator/)
+- [Wave 4 testing accessability](https://wave.webaim.org/)
+
+### w3c validator
+
+This is testing the live site URL
+
+![HTML-validator.png](assets%2Fimages%2Freadme%2FHTML-validator.png)
+
+- 22 Problems were found
+- 17 info errors
+- 5 warning errors
+
+Testing each page:
+
+- home
+  - 22 Problems were found
+  - 17 info errors
+  - 5 warning errors
+- 1900s
+  - 19 Problems were found
+  - 15 info errors
+  - 4 warning errors
+- 2000s
+  - 19 Problems were found
+  - 14 info errors
+  - 5 warning errors
+
+### Jigsaw
+
+This is testing the live site URL
+
+![CSS-validator.png](assets%2Fimages%2Freadme%2FCSS-validator.png)
+
+- There were no errors found
+
+Testing each css file:
+
+- styles
+  - There were no errors found
+- media
+  - There were no errors found
+
+### Wave
+
+![wave-validator.png](assets%2Fimages%2Freadme%2Fwave-validator.png)
+
+Wave only tests the live site:
+
+- Home
+  - 29 Problems were found
+  - 4 contrast errors
+  - 6 alerts
+  - 11 features
+  - 8 structural elements
+- 1900s
+  - 45 Problems were found
+  - 4 contrast errors
+  - 18 alerts
+  - 15 features
+  - 8 structural elements
+- 2000s
+  - 38 Problems were found
+  - 4 contrast errors
+  - 13 alerts
+  - 13 features
+  - 8 structural elements
+
+---
+
+## Problems And Bugs
+
+### _Navbar_
+
+### Problem 1
+
+- Problem: The navbar on the 1900s and 2000s page doesn't change on a smaller device,
+  but it is correct on the Landing page.
+
+![navbar-desktop.png](assets%2Fimages%2Freadme%2Fnavbar-desktop.png)
+
+- This is how it looks
+
+![navbar-mobile.png](assets%2Fimages%2Freadme%2Fnavbar-mobile.png)
+
+- This is how it is supposed to look
+
+- Problem Solved: It turns out that it was a meta tag issue, I had only one meta tag in the 1900s and 2000s page, when
+  it should have been 3.
+
+![meta-tags-1.png](assets%2Fimages%2Freadme%2Fmeta-tags-1.png)
+
+- Before
+
+![meta-tags-2.png](assets%2Fimages%2Freadme%2Fmeta-tags-2.png)
+
+- After
+
+### Problem 2
+
+- Problem: The bootstrap styling that has been applied to this branch is messing up my original styling
+
+![contact-page.png](assets%2Fimages%2Freadme%2Fcontact-page.png)
+
+- Before
+
+---
+
+## Credits And References
+
+### Credits
+
+- [Luke Buchanan - Mentor](https://www.linkedin.com/in/lukebuchanan67/)
+- [Code Institute - Bootcamp](https://codeinstitute.net/)
+- [Inspiration for this readme file](https://github.com/PedroCristo/portfolio_project_1#languages-used)
+
+### References for information
+
+- [History of the London Underground](https://en.wikipedia.org/wiki/History_of_the_London_Underground)
+- [Busses in London](https://en.wikipedia.org/wiki/Buses_in_London)
+- [Omnibus or Horsebus](https://en.wikipedia.org/wiki/Horsebus#:~:text=A%20horse%2Dbus%20or%20horse,means%20of%20transportation%20in%20cities.)
+
+---

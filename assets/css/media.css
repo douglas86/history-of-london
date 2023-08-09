@@ -40,7 +40,7 @@
   .image-heading {
     height: 30rem;
   }
-  /*section desciptions*/
+  /*Descriptions*/
   .description {
     display: inline-block;
   }
@@ -58,6 +58,7 @@
 
 /*media for 600 pixels*/
 @media only screen and (max-width: 600px) {
+  /*Text that is displayed within the timeline and below images*/
   .dates > p {
     font-size: 1.5rem;
   }

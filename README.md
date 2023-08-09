@@ -1,15 +1,5 @@
 # History of London Transportation System
 
-<div style="display:flex">
-  <p>
-      <a href="https://jigsaw.w3.org/css-validator/check/referer">
-          <img style="border:0;width:88px;height:31px"
-              src="https://jigsaw.w3.org/css-validator/images/vcss"
-              alt="Valid CSS!" />
-      </a>
-  </p>
-</div>
-
 ---
 
 ## [Introduction](#table-of-content)
@@ -18,6 +8,9 @@ This is my First Milestone Project with Code Insitute.
 
 I thought of building a website on the history of Transportation in London from the 1800s.
 As my country of origin doesn't have the same transportation network that the UK has to offer.
+
+This is a Graph of the branching method that I used in a Version control system (GitHub)
+![Graph of git branching.png](assets%2Fimages%2Freadme%2FGraph%20of%20git%20branching.png)
 
 ---
 
@@ -208,6 +201,12 @@ Testing each page:
   - 14 info errors
   - 5 warning errors
 
+Rectified all issues with HTML validators:
+
+![HTML-validator-issues-rectified.png](assets%2Fimages%2Freadme%2FHTML-validator-issues-rectified.png)
+
+- [URL report](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdouglas86.github.io%2Fhistory-of-london%2F)
+
 ### Jigsaw
 
 This is testing the live site URL
@@ -222,6 +221,8 @@ Testing each css file:
   - There were no errors found
 - media
   - There were no errors found
+
+- [Jigsaw Report](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdouglas86.github.io%2Fhistory-of-london%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ### Wave
 
@@ -247,6 +248,13 @@ Wave only tests the live site:
   - 13 alerts
   - 13 features
   - 8 structural elements
+
+Solved almost all problems in wave:
+
+![wave-validator-problems-solved.png](assets%2Fimages%2Freadme%2Fwave-validator-problems-solved.png)
+
+- The only warning that was left was that I was having problems getting a transcript for my video file
+- [Wave Report](https://wave.webaim.org/report#/https://douglas86.github.io/history-of-london/)
 
 ---
 

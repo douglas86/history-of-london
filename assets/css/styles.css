@@ -58,6 +58,11 @@ footer img {
 .section_heading {
   text-align: center;
   font-size: 3rem;
+  font-family: "Lumanosimo", cursive, "Delicious Handrawn";
+}
+.timeline-heading {
+  text-align: center;
+  font-size: 2rem;
 }
 
 /*description section*/

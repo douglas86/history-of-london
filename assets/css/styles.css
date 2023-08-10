@@ -129,7 +129,7 @@ figcaption {
 /*styling for Youtube videos*/
 .videos {
   display: flex;
-  padding: 15%;
+  padding: 5%;
 }
 iframe {
   width: 100%;

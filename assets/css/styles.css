@@ -58,6 +58,11 @@ footer img {
 .section_heading {
   text-align: center;
   font-size: 3rem;
+  font-family: "Lumanosimo", cursive, "Delicious Handrawn";
+}
+.timeline-heading {
+  text-align: center;
+  font-size: 2rem;
 }
 
 /*description section*/
@@ -124,10 +129,11 @@ figcaption {
 /*styling for Youtube videos*/
 .videos {
   display: flex;
-  padding: 2%;
+  padding: 5%;
 }
-video {
+iframe {
   width: 100%;
+  height: 20rem;
 }
 
 /*form*/

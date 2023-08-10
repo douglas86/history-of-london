@@ -106,6 +106,10 @@
   .page-header {
     font-size: 1rem;
   }
+  /*Section heading*/
+  .section_heading {
+    font-size: 2rem;
+  }
   /*form*/
   button {
     font-size: 0.4rem;

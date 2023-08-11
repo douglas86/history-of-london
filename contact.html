@@ -1,25 +1,22 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
-    />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta charset="UTF-8" >
+    <meta name="viewport" content="width=device-width" >
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" >
     <title>history-of-london</title>
 
     <!-- google fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://fonts.googleapis.com" >
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin >
     <link
       href="https://fonts.googleapis.com/css2?family=Delicious+Handrawn&family=Lumanosimo&display=swap"
       rel="stylesheet"
-    />
+    >
 
     <!-- style sheets-->
-    <link rel="stylesheet" href="assets/css/styles.css" />
-    <link rel="stylesheet" href="assets/css/media.css" />
+    <link rel="stylesheet" href="assets/css/styles.css" >
+    <link rel="stylesheet" href="assets/css/media.css" >
   </head>
   <body>
     <!-- header-->
@@ -51,57 +48,88 @@
     <figure>
       <img
         class="image-heading"
-        src="assets/images/contact/best-contact-us-pages-2.png"
-        alt="contact form"
-      />
+        src="assets/images/contact/Transport_with_buses.png"
+        alt="Buses at tottenham court"
+      >
     </figure>
 
     <!--form-->
     <div class="form">
+      <!--form dump with POST method-->
       <form
         method="POST"
         target="_blank"
         action="https://formdump.codeinstitute.net/"
       >
-        <label>
-          <input type="email" placeholder="Email" required />
-        </label>
+        <fieldset>
+          <legend>All fields marked with <span>*</span> are required</legend>
 
-        <label>
-          <input type="text" placeholder="Full Name" name="postData" required />
-        </label>
+          <!--Email-->
+          <label for="email">Email<span>*</span></label>
+          <input
+            type="email"
+            id="email"
+            placeholder="Email"
+            name="email"
+            required
+          >
+          <br >
 
-        <label>
-          <input type="text" placeholder="Contact Number" />
-        </label>
-
-        <label>
+          <!--Full name-->
+          <label for="fName">Full Name<span>*</span></label>
           <input
             type="text"
-            placeholder="Note to receiver"
-            name="postData"
+            id="fName"
+            placeholder="Full Name"
+            name="fName"
             required
-          />
-        </label>
+          >
+          <br >
 
-        <br />
+          <!--contact number-->
+          <label for="contact">Contact Number<span>*</span></label>
+          <input
+            type="text"
+            id="contact"
+            placeholder="Contact Number"
+            name="contact"
+            required
+          >
+          <br >
 
-        <button type="submit">Submit</button>
+          <!--note to receiver-->
+          <label for="note">Note to receiver<span>*</span></label>
+          <input
+            type="text"
+            id="note"
+            placeholder="Note to receiver"
+            name="note"
+            required
+          >
+          <br >
+
+          <!--submit button-->
+          <button type="submit">Submit</button>
+        </fieldset>
+
+        <br >
       </form>
     </div>
 
     <!-- footer-->
     <footer>
       <ul>
+        <!--My GitHub profile link-->
         <li>
           <a href="https://github.com/douglas86" target="_blank">
             <img
               src="./assets/images/footer/GitHub-Mark.png"
               alt="Version Control System"
-            />
+            >
             GitHub Profile</a
           >
         </li>
+        <!--Reference link for the London Underground-->
         <li>
           <a
             href="https://en.wikipedia.org/wiki/History_of_the_London_Underground"
@@ -110,10 +138,11 @@
             <img
               src="./assets/images/footer/Wikipedia-logo-v2.svg.png"
               alt="Wikipedia"
-            />
+            >
             London Underground</a
           >
         </li>
+        <!--Reference link for the Buses-->
         <li>
           <a
             href="https://en.wikipedia.org/wiki/Buses_in_London"
@@ -122,10 +151,11 @@
             <img
               src="./assets/images/footer/Wikipedia-logo-v2.svg.png"
               alt="Wikipedia"
-            />
+            >
             Buses</a
           >
         </li>
+        <!--Reference link for the Omnibus-->
         <li>
           <a
             href="https://en.wikipedia.org/wiki/Horsebus#:~:text=A%20horse%2Dbus%20or%20horse,means%20of%20transportation%20in%20cities."
@@ -134,7 +164,7 @@
             <img
               src="./assets/images/footer/Wikipedia-logo-v2.svg.png"
               alt="Wikipedia"
-            />
+            >
             Omnibus's</a
           >
         </li>

@@ -1,5 +1,16 @@
 /*media for 1200 pixels*/
 @media only screen and (min-width: 2000px) {
+  /*navbar and footer*/
+  .navbar-title {
+    font-size: 4rem;
+  }
+  .navbar a,
+  footer a {
+    font-size: 30px;
+  }
+  footer img {
+    width: 3rem;
+  }
   /*headings*/
   .image-heading {
     height: 70rem;
@@ -26,6 +37,9 @@
     height: 40rem;
   }
   /*form*/
+  legend {
+    font-size: 2rem;
+  }
   label {
     font-size: 2rem;
   }
@@ -168,6 +182,9 @@
     font-size: 2rem;
   }
   /*form*/
+  legend {
+    font-size: 1rem;
+  }
   label {
     font-size: 0.8rem;
   }

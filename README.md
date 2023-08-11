@@ -68,9 +68,9 @@ As my country of origin doesn't have the same transportation network that the UK
 
 ### Videos
 
-- There is one YouTube video that was downloaded from the internet
+- I am using an embedded YouTube video link to display the video
 - This video takes you through a bit of the history of the omnibus to the electric bus
-- Attributes on the video element: autoplay, muted, controls, loop
+- It is on autoplay and is muted
 
 ---
 
@@ -174,7 +174,7 @@ Making full use of branching methodology when using GitHub
 
 ## Testing And Validation
 
-### Lighthouse testing using Chrome Dev Tools
+### Lighthouse testing using Chrome Dev Tools on Home Page
 
 ![lighthouse-report.png](assets%2Fimages%2Freadme%2Flighthouse-report.png)
 
@@ -294,14 +294,6 @@ Solved almost all problems in wave:
 ![meta-tags-2.png](assets%2Fimages%2Freadme%2Fmeta-tags-2.png)
 
 - After
-
-### Problem 2
-
-- Problem: The bootstrap styling that has been applied to this branch is messing up my original styling
-
-![contact-page.png](assets%2Fimages%2Freadme%2Fcontact-page.png)
-
-- Before
 
 ---
 

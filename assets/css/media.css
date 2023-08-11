@@ -1,5 +1,5 @@
 /*media for 1200 pixels*/
-@media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 2000px) {
   .dates > p {
     font-size: 2.5rem;
   }
@@ -9,6 +9,9 @@
   .content {
     width: 40%;
     margin-top: 5%;
+  }
+  .hidden-image {
+    display: none;
   }
 }
 

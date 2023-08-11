@@ -26,6 +26,13 @@
     height: 40rem;
   }
   /*form*/
+  label {
+    font-size: 2rem;
+  }
+  input {
+    height: 40px;
+    font-size: 1.5rem;
+  }
   button {
     font-size: 2.2rem;
   }
@@ -161,6 +168,13 @@
     font-size: 2rem;
   }
   /*form*/
+  label {
+    font-size: 0.8rem;
+  }
+  input {
+    height: 20px;
+    font-size: 0.8rem;
+  }
   button {
     font-size: 1rem;
   }

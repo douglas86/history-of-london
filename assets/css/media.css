@@ -13,6 +13,9 @@
   .hidden-image {
     display: none;
   }
+  figcaption {
+    font-size: 3rem;
+  }
 }
 
 @media only screen and (max-width: 1200px) {

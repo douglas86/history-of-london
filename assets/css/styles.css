@@ -47,9 +47,10 @@ footer img {
 /*Heading*/
 .page-header {
   text-align: center;
-  font-size: 3rem;
+  font-size: 3.5rem;
   font-family: "Lumanosimo", cursive, "Delicious Handrawn";
   width: 100%;
+  color: #372400;
 }
 .image-heading {
   width: 100%;
@@ -63,6 +64,7 @@ footer img {
 .timeline-heading {
   text-align: center;
   font-size: 2rem;
+  color: #584400;
 }
 
 /*description section*/

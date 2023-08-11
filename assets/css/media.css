@@ -1,4 +1,4 @@
-/*media for 1200 pixels*/
+/*media queries greater than 2000 pixels*/
 @media only screen and (min-width: 2000px) {
   /*navbar and footer*/
   .navbar-title {
@@ -12,8 +12,17 @@
     width: 3rem;
   }
   /*headings*/
+  .page-header {
+    font-size: 6rem;
+  }
   .image-heading {
     height: 70rem;
+  }
+  .section_heading {
+    font-size: 4rem;
+  }
+  .timeline-heading {
+    font-size: 3rem;
   }
   /*description section*/
   .description div {
@@ -133,6 +142,9 @@
   .image-heading {
     height: 30rem;
   }
+  .timeline-heading {
+    font-size: 2rem;
+  }
   /*Descriptions*/
   .description {
     display: inline-block;
@@ -199,11 +211,25 @@
 @media only screen and (max-width: 450px) {
   /*Headings*/
   .page-header {
-    font-size: 1rem;
+    font-size: 1.8rem;
+  }
+  /*navbar and footer*/
+  .navbar-title {
+    font-size: 1.8rem;
+  }
+  /*Description section*/
+  .description div {
+    font-size: 1.2rem;
   }
   /*Section heading*/
-  .section_heading {
+  .page-header {
     font-size: 2rem;
+  }
+  .section_heading {
+    font-size: 1.6rem;
+  }
+  .timeline-heading {
+    font-size: 1.2rem;
   }
   /*form*/
   legend {

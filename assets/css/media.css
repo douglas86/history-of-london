@@ -1,5 +1,10 @@
 /*media for 1200 pixels*/
 @media only screen and (min-width: 2000px) {
+  /*headings*/
+  .image-heading {
+    height: 50rem;
+  }
+  /*Timeline*/
   .dates > p {
     font-size: 2.5rem;
   }
@@ -19,6 +24,7 @@
 }
 
 @media only screen and (max-width: 1200px) {
+  /*Timeline*/
   .dates {
     width: 60%;
   }

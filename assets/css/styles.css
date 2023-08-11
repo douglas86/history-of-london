@@ -149,6 +149,24 @@ form {
   width: 100%;
 }
 
+label {
+  display: flex;
+  width: 100%;
+  font-size: 1.5rem;
+  justify-content: center;
+  margin: 1%;
+  font-weight: bold;
+}
+
+label span,
+legend span {
+  color: #800000;
+}
+
+legend {
+  font-size: 1.3rem;
+}
+
 input {
   width: 50%;
   height: 30px;

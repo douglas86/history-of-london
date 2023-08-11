@@ -15,6 +15,18 @@
   .image-heading {
     height: 70rem;
   }
+  /*description section*/
+  .description div {
+    font-size: 2.5rem;
+  }
+  .description image {
+    width: 20%;
+  }
+  .description .content {
+    margin-top: -20px;
+    width: 80%;
+  }
+
   /*Timeline*/
   .dates > p {
     font-size: 2.5rem;
@@ -73,7 +85,19 @@
   }
   .content {
     width: 40%;
-    margin: 30% 0;
+    margin: 0;
+  }
+  /*description section*/
+  .description {
+    display: block;
+  }
+  .description div {
+    width: 100%;
+    font-size: 2rem;
+  }
+  .description .content {
+    margin-top: -20px;
+    width: 100%;
   }
 }
 

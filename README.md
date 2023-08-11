@@ -11,9 +11,6 @@ As my country of origin doesn't have the same transportation network that the UK
 
 [Visit Site](https://douglas86.github.io/history-of-london/)
 
-This is a Graph of the branching method that I used in a Version control system (GitHub)
-![Graph of git branching.png](assets%2Fimages%2Freadme%2FGraph%20of%20git%20branching.png)
-
 ---
 
 ## Table of Content
@@ -168,9 +165,16 @@ One of the Main reasons for not doing it was that there were too many to choose 
 - Intellij Idea - IDE (Integrated Development Environment)
 - Google Chrome—for research and dev tools
 
+Making full use of branching methodology when using GitHub
+![Graph of git branching.png](assets%2Fimages%2Freadme%2FGraph%20of%20git%20branching.png)
+
 ---
 
 ## Testing And Validation
+
+### Lighthouse testing using Chrome Dev Tools
+
+![lighthouse-report.png](assets%2Fimages%2Freadme%2Flighthouse-report.png)
 
 ### Types of Testing
 
@@ -222,6 +226,7 @@ Testing each css file:
 - styles
   - There were no errors found
 - media
+
   - There were no errors found
 
 - [Jigsaw Report](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdouglas86.github.io%2Fhistory-of-london%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)

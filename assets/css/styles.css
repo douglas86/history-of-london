@@ -134,7 +134,6 @@ figcaption {
   display: flex;
   padding: 5%;
 }
-/* TODO: increase hieght of iframe */
 iframe {
   width: 100%;
   height: 20rem;

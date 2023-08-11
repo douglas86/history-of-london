@@ -64,26 +64,22 @@
         target="_blank"
         action="https://formdump.codeinstitute.net/"
       >
-        <!-- FIX: when using screen dump this information needs to show in the new tab -->
-        <!-- FIX: This is for all form elements -->
-        <!-- NOTE: this works with name as an attribute -->
-
         <!-- TODO: Add the email as a form label -->
         <!--email-->
         <label>
-          <input type="email" placeholder="Email" required />
+          <input type="email" placeholder="Email" name="email" required />
         </label>
 
         <!-- TODO: Add the Full Name as a form label -->
         <!--full name-->
         <label>
-          <input type="text" placeholder="Full Name" name="postData" required />
+          <input type="text" placeholder="Full Name" name="fName" required />
         </label>
 
         <!-- TODO: Add the Contact Number as a form label -->
         <!--contact number-->
         <label>
-          <input type="text" placeholder="Contact Number" />
+          <input type="text" placeholder="Contact Number" name="contact" />
         </label>
 
         <!-- TODO: Add the Note To Receiver as a form label -->
@@ -92,7 +88,7 @@
           <input
             type="text"
             placeholder="Note to receiver"
-            name="postData"
+            name="note"
             required
           />
         </label>

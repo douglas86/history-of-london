@@ -101,13 +101,16 @@ figcaption {
 
 /*content next to timeline*/
 .content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   width: 50%;
-  padding: 5%;
+  padding: 2%;
 }
 
 /*content figure*/
 .content figure {
-  margin: 10% 0;
+  margin: 5% 0;
 }
 
 /*content image*/
@@ -131,6 +134,7 @@ figcaption {
   display: flex;
   padding: 5%;
 }
+/* TODO: increase hieght of iframe */
 iframe {
   width: 100%;
   height: 20rem;

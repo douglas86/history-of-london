@@ -47,6 +47,8 @@
       <h1 class="page-header">Contact Form</h1>
     </header>
 
+    <!-- TODO: Replace this image with a mail train or a house that is carrying mail -->
+    <!-- NOTE: Try match the image to the background color, it mustn't be so white in the background -->
     <!--Main image at the top-->
     <figure>
       <img
@@ -64,21 +66,29 @@
         target="_blank"
         action="https://formdump.codeinstitute.net/"
       >
+        <!-- FIX: when using screen dump this information needs to show in the new tab -->
+        <!-- FIX: This is for all form elements -->
+        <!-- NOTE: this works with name as an attribute -->
+
+        <!-- TODO: Add the email as a form label -->
         <!--email-->
         <label>
           <input type="email" placeholder="Email" required />
         </label>
 
+        <!-- TODO: Add the Full Name as a form label -->
         <!--full name-->
         <label>
           <input type="text" placeholder="Full Name" name="postData" required />
         </label>
 
+        <!-- TODO: Add the Contact Number as a form label -->
         <!--contact number-->
         <label>
           <input type="text" placeholder="Contact Number" />
         </label>
 
+        <!-- TODO: Add the Note To Receiver as a form label -->
         <!--note to receiver-->
         <label>
           <input
@@ -91,6 +101,7 @@
 
         <br />
 
+        <!-- FIX: the button and button text is to small on max-width: 600px -->
         <!--submit button-->
         <button type="submit">Submit</button>
       </form>

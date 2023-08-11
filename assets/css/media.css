@@ -1,10 +1,112 @@
-/*media for 1200 pixels*/
-@media only screen and (max-width: 1200px) {
+/*media queries greater than 2000 pixels*/
+@media only screen and (min-width: 2000px) {
+  /*navbar and footer*/
+  .navbar-title {
+    font-size: 4rem;
+  }
+  .navbar a,
+  footer a {
+    font-size: 30px;
+  }
+  footer img {
+    width: 3rem;
+  }
+  /*headings*/
+  .page-header {
+    font-size: 6rem;
+  }
+  .image-heading {
+    height: 70rem;
+  }
+  .section_heading {
+    font-size: 4rem;
+  }
+  .timeline-heading {
+    font-size: 3rem;
+  }
+  /*description section*/
+  .description div {
+    font-size: 2.5rem;
+  }
+  .description image {
+    width: 20%;
+  }
+  .description .content {
+    margin-top: -20px;
+    width: 80%;
+  }
+
+  /*Timeline*/
+  .dates > p {
+    font-size: 2.5rem;
+  }
   .dates {
     width: 60%;
   }
   .content {
     width: 40%;
+    margin-top: 5%;
+  }
+  .hidden-image {
+    display: none;
+  }
+  figcaption {
+    font-size: 3rem;
+  }
+  /*Youtube videos*/
+  iframe {
+    height: 40rem;
+  }
+  /*form*/
+  legend {
+    font-size: 2rem;
+  }
+  label {
+    font-size: 2rem;
+  }
+  input {
+    height: 40px;
+    font-size: 1.5rem;
+  }
+  button {
+    font-size: 2.2rem;
+  }
+}
+
+@media only screen and (max-width: 1440px) and (min-width: 1200px) {
+  /*Timeline*/
+  .content {
+    margin: 10% 0;
+  }
+  /*Youtube videos*/
+  .videos {
+    margin-top: -10%;
+  }
+  iframe {
+    height: 30rem;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  /*Timeline*/
+  .dates {
+    width: 60%;
+  }
+  .content {
+    width: 40%;
+    margin: 0;
+  }
+  /*description section*/
+  .description {
+    display: block;
+  }
+  .description div {
+    width: 100%;
+    font-size: 2rem;
+  }
+  .description .content {
+    margin-top: -20px;
+    width: 100%;
   }
 }
 
@@ -40,6 +142,9 @@
   .image-heading {
     height: 30rem;
   }
+  .timeline-heading {
+    font-size: 2rem;
+  }
   /*Descriptions*/
   .description {
     display: inline-block;
@@ -52,7 +157,9 @@
   }
   /*form*/
   button {
-    font-size: 0.8rem;
+    width: 30%;
+    height: 30%;
+    font-size: 1.2rem;
   }
 }
 
@@ -104,14 +211,38 @@
 @media only screen and (max-width: 450px) {
   /*Headings*/
   .page-header {
-    font-size: 1rem;
+    font-size: 1.8rem;
+  }
+  /*navbar and footer*/
+  .navbar-title {
+    font-size: 1.8rem;
+  }
+  /*Description section*/
+  .description div {
+    font-size: 1.2rem;
   }
   /*Section heading*/
-  .section_heading {
+  .page-header {
     font-size: 2rem;
   }
+  .section_heading {
+    font-size: 1.6rem;
+  }
+  .timeline-heading {
+    font-size: 1.2rem;
+  }
   /*form*/
+  legend {
+    font-size: 1rem;
+  }
+  label {
+    font-size: 0.8rem;
+  }
+  input {
+    height: 20px;
+    font-size: 0.8rem;
+  }
   button {
-    font-size: 0.4rem;
+    font-size: 1rem;
   }
 }

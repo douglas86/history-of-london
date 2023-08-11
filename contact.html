@@ -51,8 +51,8 @@
     <figure>
       <img
         class="image-heading"
-        src="assets/images/contact/best-contact-us-pages-2.png"
-        alt="contact form"
+        src="assets/images/contact/Transport_with_buses.png"
+        alt="Buses at tottenham court"
       />
     </figure>
 
@@ -64,35 +64,58 @@
         target="_blank"
         action="https://formdump.codeinstitute.net/"
       >
-        <!--email-->
-        <label>
-          <input type="email" placeholder="Email" required />
-        </label>
+        <fieldset>
+          <legend>All fields marked with <span>*</span> are required</legend>
 
-        <!--full name-->
-        <label>
-          <input type="text" placeholder="Full Name" name="postData" required />
-        </label>
-
-        <!--contact number-->
-        <label>
-          <input type="text" placeholder="Contact Number" />
-        </label>
-
-        <!--note to receiver-->
-        <label>
+          <!--Email-->
+          <label for="email">Email<span>*</span></label>
           <input
-            type="text"
-            placeholder="Note to receiver"
-            name="postData"
+            type="email"
+            id="email"
+            placeholder="Email"
+            name="email"
             required
           />
-        </label>
+          <br />
+
+          <!--Full name-->
+          <label for="fName">Full Name<span>*</span></label>
+          <input
+            type="text"
+            id="fName"
+            placeholder="Full Name"
+            name="fName"
+            required
+          />
+          <br />
+
+          <!--contact number-->
+          <label for="contact">Contact Number<span>*</span></label>
+          <input
+            type="text"
+            id="contact"
+            placeholder="Contact Number"
+            name="contact"
+            required
+          />
+          <br />
+
+          <!--note to receiver-->
+          <label for="note">Note to receiver<span>*</span></label>
+          <input
+            type="text"
+            id="note"
+            placeholder="Note to receiver"
+            name="note"
+            required
+          />
+          <br />
+
+          <!--submit button-->
+          <button type="submit">Submit</button>
+        </fieldset>
 
         <br />
-
-        <!--submit button-->
-        <button type="submit">Submit</button>
       </form>
     </div>
 

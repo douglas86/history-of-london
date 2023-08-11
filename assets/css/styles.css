@@ -47,9 +47,10 @@ footer img {
 /*Heading*/
 .page-header {
   text-align: center;
-  font-size: 3rem;
+  font-size: 3.5rem;
   font-family: "Lumanosimo", cursive, "Delicious Handrawn";
   width: 100%;
+  color: #372400;
 }
 .image-heading {
   width: 100%;
@@ -63,6 +64,7 @@ footer img {
 .timeline-heading {
   text-align: center;
   font-size: 2rem;
+  color: #584400;
 }
 
 /*description section*/
@@ -101,13 +103,16 @@ figcaption {
 
 /*content next to timeline*/
 .content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   width: 50%;
-  padding: 5%;
+  padding: 2%;
 }
 
 /*content figure*/
 .content figure {
-  margin: 10% 0;
+  margin: 5% 0;
 }
 
 /*content image*/
@@ -146,6 +151,24 @@ form {
   width: 100%;
 }
 
+label {
+  display: flex;
+  width: 100%;
+  font-size: 1.5rem;
+  justify-content: center;
+  margin: 1%;
+  font-weight: bold;
+}
+
+label span,
+legend span {
+  color: #800000;
+}
+
+legend {
+  font-size: 1.3rem;
+}
+
 input {
   width: 50%;
   height: 30px;
@@ -154,8 +177,8 @@ input {
 }
 
 button {
-  width: 10%;
-  height: 10%;
+  width: 20%;
+  height: 20%;
   border-radius: 10px;
   color: #fff;
   background: #0d6efd;

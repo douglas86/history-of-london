@@ -94,7 +94,10 @@
   }
   .content {
     width: 40%;
-    margin: 0;
+    /*margin: 0;*/
+  }
+  .content figure {
+    margin: 20% 0;
   }
   /*description section*/
   .description {
@@ -107,6 +110,11 @@
   .description .content {
     margin-top: -20px;
     width: 100%;
+  }
+  /*Youtube videos*/
+  iframe {
+    height: 20rem;
+    margin-bottom: 10rem;
   }
 }
 
@@ -230,6 +238,11 @@
   }
   .timeline-heading {
     font-size: 1.2rem;
+  }
+  /*Youtube videos*/
+  iframe {
+    height: 10rem;
+    margin-bottom: 1rem;
   }
   /*form*/
   legend {

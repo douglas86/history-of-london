@@ -111,6 +111,11 @@
     margin-top: -20px;
     width: 100%;
   }
+  /*Youtube videos*/
+  iframe {
+    height: 20rem;
+    margin-bottom: 10rem;
+  }
 }
 
 /*media for 1000 pixels*/
@@ -233,6 +238,11 @@
   }
   .timeline-heading {
     font-size: 1.2rem;
+  }
+  /*Youtube videos*/
+  iframe {
+    height: 10rem;
+    margin-bottom: 1rem;
   }
   /*form*/
   legend {

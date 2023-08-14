@@ -295,6 +295,20 @@ After
 
 ![meta-tags-2.png](assets%2Fimages%2Freadme%2Fmeta-tags-2.png)
 
+### Problem 2: Timeline and image in the same line
+
+- Problem: The image is not supposed to be in the same line as the Timeline heading, it was only like that on laptop 
+  screen sizes
+- Problem Solved: The margin was adjusted at breakpoint 1200px for those images
+
+Before
+
+![Problem-2-Before.png](assets%2Fimages%2Freadme%2FProblem-2-Before.png)
+
+After
+
+![Problem-2-After.png](assets%2Fimages%2Freadme%2FProblem-2-After.png)
+
 ---
 
 ## Credits And References

@@ -9,7 +9,7 @@ This is my First Milestone Project with Code Insitute.
 I thought of building a website on the history of Transportation in London from the 1800s.
 As my country of origin doesn't have the same transportation network that the UK has to offer.
 
-[Visit Site](https://douglas86.github.io/history-of-london/)
+[Click here to visit my Live Site](https://douglas86.github.io/history-of-london/)
 
 ![Site-looks-on-other-displays.png](assets%2Fimages%2Freadme%2FSite-looks-on-other-displays.png)
 

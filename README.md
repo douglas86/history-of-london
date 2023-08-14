@@ -60,11 +60,12 @@ As my country of origin doesn't have the same transportation network that the UK
 ### Images
 
 - Each page has a main heading depicting the transportation at the time
-- The Omnibus section of the Landing page has two images
-- The one image describes what an Omnibus is the other is just a short display
-- There are five images for the London Underground split between three pages
-- There are three images for the Bus section on 2 of the pages
-- There are four images on the footer with links to take you to the source of were I got the information from
+- The landing page has four images including the main image at the top
+- There is also an embedded YouTube video link for the Omnibus section
+- There is a total of seven images on the 20th century page
+- One of the images is hidden on certain screen sizes
+- There are five images on the 21st century page
+- There are four images next to the links on the footer
 
 ### Videos
 

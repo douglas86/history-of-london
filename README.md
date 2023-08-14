@@ -61,7 +61,6 @@ As my country of origin doesn't have the same transportation network that the UK
 
 - Each page has a main heading depicting the transportation at the time
 - The landing page has four images including the main image at the top
-- There is also an embedded YouTube video link for the Omnibus section
 - There is a total of seven images on the 20th century page
 - One of the images is hidden on certain screen sizes
 - There are five images on the 21st century page
@@ -69,9 +68,9 @@ As my country of origin doesn't have the same transportation network that the UK
 
 ### Videos
 
-- I am using an embedded YouTube video link to display the video
+- I am using an embedded YouTube video link to display the video on Landing Page
 - This video takes you through a bit of the history of the omnibus to the electric bus
-- It is on autoplay and is muted
+- I left it completely up to the user to play the video of not.
 
 ---
 

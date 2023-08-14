@@ -9,7 +9,7 @@ This is my First Milestone Project with Code Insitute.
 I thought of building a website on the history of Transportation in London from the 1800s.
 As my country of origin doesn't have the same transportation network that the UK has to offer.
 
-[Visit Site](https://douglas86.github.io/history-of-london/)
+[Click here to visit my Live Site](https://douglas86.github.io/history-of-london/)
 
 ![Site-looks-on-other-displays.png](assets%2Fimages%2Freadme%2FSite-looks-on-other-displays.png)
 
@@ -60,17 +60,17 @@ As my country of origin doesn't have the same transportation network that the UK
 ### Images
 
 - Each page has a main heading depicting the transportation at the time
-- The Omnibus section of the Landing page has two images
-- The one image describes what an Omnibus is the other is just a short display
-- There are five images for the London Underground split between three pages
-- There are three images for the Bus section on 2 of the pages
-- There are four images on the footer with links to take you to the source of were I got the information from
+- The landing page has four images including the main image at the top
+- There is a total of seven images on the 20th century page
+- One of the images is hidden on certain screen sizes
+- There are five images on the 21st century page
+- There are four images next to the links on the footer
 
 ### Videos
 
-- I am using an embedded YouTube video link to display the video
+- I am using an embedded YouTube video link to display the video on Landing Page
 - This video takes you through a bit of the history of the omnibus to the electric bus
-- It is on autoplay and is muted
+- I left it completely up to the user to play the video of not.
 
 ---
 
@@ -81,11 +81,13 @@ As my country of origin doesn't have the same transportation network that the UK
 - Although this is the wireframe of my design
 - My design has changed slightly since then
 
-![wireframe-1.png](assets%2Fimages%2Freadme%2Fwireframe-1.png)
 Top of design
 
-![wireframe-2.png](assets%2Fimages%2Freadme%2Fwireframe-2.png)
+![wireframe-1.png](assets%2Fimages%2Freadme%2Fwireframe-1.png)
+
 Bottom of design
+
+![wireframe-2.png](assets%2Fimages%2Freadme%2Fwireframe-2.png)
 
 ### Old idea that I had and never used
 
@@ -93,24 +95,24 @@ This was an Idea that I had, I was planning to do a history on the different typ
 But it became complicated as there was not enough information to go on and all the info was scattered. Between to
 many documents.
 
+Top of design
+
 ![wireframe-3.png](assets%2Fimages%2Freadme%2Fwireframe-3.png)
 
-- Top of design
+Bottom of design
 
 ![wireframe-4.png](assets%2Fimages%2Freadme%2Fwireframe-4.png)
-
-- Bottom of design
 
 This was a second idea that I had, I was going to do a website on the different companies on the London Underground.
 One of the Main reasons for not doing it was that there were too many to choose from.
 
+Top of design
+
 ![wireframe-5.png](assets%2Fimages%2Freadme%2Fwireframe-5.png)
 
-- Top of design
+Bottom of design
 
 ![wireframe-6.png](assets%2Fimages%2Freadme%2Fwireframe-6.png)
-
-- Bottom of design
 
 ---
 
@@ -118,21 +120,21 @@ One of the Main reasons for not doing it was that there were too many to choose 
 
 ### Headers
 
+Navbar on Desktop
+
 ![navbar-desktop.png](assets%2Fimages%2Freadme%2Fnavbar-desktop.png)
 
-- Navbar on Desktop
+Navbar on Mobile
 
 ![navbar-mobile.png](assets%2Fimages%2Freadme%2Fnavbar-mobile.png)
 
-- Navbar on Mobile
+Page Heading
 
 ![Page Heading.png](assets%2Fimages%2Freadme%2FPage%20Heading.png)
 
-- Page Heading
+Image Heading of Landing Page
 
 ![Image-heading.png](assets%2Fimages%2Freadme%2FImage-heading.png)
-
-- Image Heading of Landing Page
 
 ### Flexbox
 
@@ -143,13 +145,13 @@ One of the Main reasons for not doing it was that there were too many to choose 
 
 ### Footer
 
+Footer on Desktop
+
 ![footer-desktop.png](assets%2Fimages%2Freadme%2Ffooter-desktop.png)
 
-- Footer on Desktop
+Footer on Mobile
 
 ![footer-mobile.png](assets%2Fimages%2Freadme%2Ffooter-mobile.png)
-
-- Footer on Mobile
 
 ---
 
@@ -269,31 +271,43 @@ Solved almost all problems in wave:
 
 ## Problems And Bugs
 
-### _Navbar_
-
-### Problem 1
+### Problem 1: _Navbar_
 
 - Problem: The navbar on the 1900s and 2000s page doesn't change on a smaller device,
   but it is correct on the Landing page.
 
+This is how it looks
+  
 ![navbar-desktop.png](assets%2Fimages%2Freadme%2Fnavbar-desktop.png)
 
-- This is how it looks
+This is how it is supposed to look
 
 ![navbar-mobile.png](assets%2Fimages%2Freadme%2Fnavbar-mobile.png)
 
-- This is how it is supposed to look
-
 - Problem Solved: It turns out that it was a meta tag issue, I had only one meta tag in the 1900s and 2000s page, when
   it should have been 3.
-
+  
+Before
+  
 ![meta-tags-1.png](assets%2Fimages%2Freadme%2Fmeta-tags-1.png)
 
-- Before
+After
 
 ![meta-tags-2.png](assets%2Fimages%2Freadme%2Fmeta-tags-2.png)
 
-- After
+### Problem 2: Timeline and image in the same line
+
+- Problem: The image is not supposed to be in the same line as the Timeline heading, it was only like that on laptop 
+  screen sizes
+- Problem Solved: The margin was adjusted at breakpoint 1200px for those images
+
+Before
+
+![Problem-2-Before.png](assets%2Fimages%2Freadme%2FProblem-2-Before.png)
+
+After
+
+![Problem-2-After.png](assets%2Fimages%2Freadme%2FProblem-2-After.png)
 
 ---
 

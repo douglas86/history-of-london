@@ -271,9 +271,7 @@ Solved almost all problems in wave:
 
 ## Problems And Bugs
 
-### _Navbar_
-
-### Problem 1
+### Problem 1: _Navbar_
 
 - Problem: The navbar on the 1900s and 2000s page doesn't change on a smaller device,
   but it is correct on the Landing page.

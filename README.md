@@ -81,11 +81,13 @@ As my country of origin doesn't have the same transportation network that the UK
 - Although this is the wireframe of my design
 - My design has changed slightly since then
 
-![wireframe-1.png](assets%2Fimages%2Freadme%2Fwireframe-1.png)
 Top of design
 
-![wireframe-2.png](assets%2Fimages%2Freadme%2Fwireframe-2.png)
+![wireframe-1.png](assets%2Fimages%2Freadme%2Fwireframe-1.png)
+
 Bottom of design
+
+![wireframe-2.png](assets%2Fimages%2Freadme%2Fwireframe-2.png)
 
 ### Old idea that I had and never used
 
@@ -93,24 +95,24 @@ This was an Idea that I had, I was planning to do a history on the different typ
 But it became complicated as there was not enough information to go on and all the info was scattered. Between to
 many documents.
 
+Top of design
+
 ![wireframe-3.png](assets%2Fimages%2Freadme%2Fwireframe-3.png)
 
-- Top of design
+Bottom of design
 
 ![wireframe-4.png](assets%2Fimages%2Freadme%2Fwireframe-4.png)
-
-- Bottom of design
 
 This was a second idea that I had, I was going to do a website on the different companies on the London Underground.
 One of the Main reasons for not doing it was that there were too many to choose from.
 
+Top of design
+
 ![wireframe-5.png](assets%2Fimages%2Freadme%2Fwireframe-5.png)
 
-- Top of design
+Bottom of design
 
 ![wireframe-6.png](assets%2Fimages%2Freadme%2Fwireframe-6.png)
-
-- Bottom of design
 
 ---
 
@@ -118,21 +120,21 @@ One of the Main reasons for not doing it was that there were too many to choose 
 
 ### Headers
 
+Navbar on Desktop
+
 ![navbar-desktop.png](assets%2Fimages%2Freadme%2Fnavbar-desktop.png)
 
-- Navbar on Desktop
+Navbar on Mobile
 
 ![navbar-mobile.png](assets%2Fimages%2Freadme%2Fnavbar-mobile.png)
 
-- Navbar on Mobile
+Page Heading
 
 ![Page Heading.png](assets%2Fimages%2Freadme%2FPage%20Heading.png)
 
-- Page Heading
+Image Heading of Landing Page
 
 ![Image-heading.png](assets%2Fimages%2Freadme%2FImage-heading.png)
-
-- Image Heading of Landing Page
 
 ### Flexbox
 
@@ -143,13 +145,13 @@ One of the Main reasons for not doing it was that there were too many to choose 
 
 ### Footer
 
+Footer on Desktop
+
 ![footer-desktop.png](assets%2Fimages%2Freadme%2Ffooter-desktop.png)
 
-- Footer on Desktop
+Footer on Mobile
 
 ![footer-mobile.png](assets%2Fimages%2Freadme%2Ffooter-mobile.png)
-
-- Footer on Mobile
 
 ---
 
@@ -276,24 +278,24 @@ Solved almost all problems in wave:
 - Problem: The navbar on the 1900s and 2000s page doesn't change on a smaller device,
   but it is correct on the Landing page.
 
+This is how it looks
+  
 ![navbar-desktop.png](assets%2Fimages%2Freadme%2Fnavbar-desktop.png)
 
-- This is how it looks
+This is how it is supposed to look
 
 ![navbar-mobile.png](assets%2Fimages%2Freadme%2Fnavbar-mobile.png)
 
-- This is how it is supposed to look
-
 - Problem Solved: It turns out that it was a meta tag issue, I had only one meta tag in the 1900s and 2000s page, when
   it should have been 3.
-
+  
+Before
+  
 ![meta-tags-1.png](assets%2Fimages%2Freadme%2Fmeta-tags-1.png)
 
-- Before
+After
 
 ![meta-tags-2.png](assets%2Fimages%2Freadme%2Fmeta-tags-2.png)
-
-- After
 
 ---
 

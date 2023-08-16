@@ -44,6 +44,10 @@ footer img {
   vertical-align: middle;
 }
 
+a:hover {
+  color: #81680e;
+}
+
 /*Heading*/
 .page-header {
   text-align: center;

@@ -9,6 +9,8 @@ This is my First Milestone Project with Code Insitute.
 I thought of building a website on the history of Transportation in London from the 1800s.
 As my country of origin doesn't have the same transportation network that the UK has to offer.
 
+This site is deployed live on GitHub Pages
+
 [Click here to visit my Live Site](https://douglas86.github.io/history-of-london/)
 
 ![Site-looks-on-other-displays.png](assets%2Fimages%2Freadme%2FSite-looks-on-other-displays.png)
@@ -26,6 +28,7 @@ As my country of origin doesn't have the same transportation network that the UK
 - [Wireframe Diagrams](#wireframe-diagram)
   - Website design idea
   - Old Idea's that I had and never used
+- [Installing locally and how it was deployed live](#installing-locally-and-how-it-was-deployed-live)
 - [Features](#features)
   - Headers
   - Flexbox
@@ -116,6 +119,55 @@ Bottom of design
 
 ---
 
+## Installing locally and how it was deployed live
+
+### Installing locally
+
+git clone if using ssh or http
+
+- git clone git@github.com:douglas86/history-of-london.git
+- git clone https://github.com/douglas86/history-of-london.git
+
+And then use either live server on VS code or icons in the top right in intellij
+
+![icons-intellij.png](assets%2Fimages%2Freadme%2Ficons-intellij.png)
+
+### How I got it to go live
+
+Making live on GitHub pages
+
+- Go to your GitHub repo
+- Under the settings tab
+
+![settings-tab.png](assets%2Fimages%2Freadme%2Fsettings-tab.png)
+
+- On the side panel on the Left
+- There will be a section called Code and Automation
+- Click on the one that says pages
+
+![pages-tab.png](assets%2Fimages%2Freadme%2Fpages-tab.png)
+
+- On the right side, there is a section called Build and Deployment
+- Under the branch section make sure that the branch says main
+- Then save
+
+![branches.png](assets%2Fimages%2Freadme%2Fbranches.png)
+
+- Then go to the action tab, it should be built there
+- Give it a few minutes to finish
+
+![action-tab.png](assets%2Fimages%2Freadme%2Faction-tab.png)
+
+- When finished, click on the link, using ctrl + click
+- this will open in a new tab
+
+![deployed-site.png](assets%2Fimages%2Freadme%2Fdeployed-site.png)
+
+- Whenever you want to visit your live site
+- You can go back to the pages section under the settings tab
+
+---
+
 ## Features
 
 ### Headers
@@ -127,6 +179,9 @@ Navbar on Desktop
 Navbar on Mobile
 
 ![navbar-mobile.png](assets%2Fimages%2Freadme%2Fnavbar-mobile.png)
+
+- In this section, you can navigate the site page structure
+- All links change color when hovered on
 
 Page Heading
 
@@ -142,6 +197,8 @@ Image Heading of Landing Page
 
 - Using Flexbox to split the screen into 2
 - Paragraph on the left and images and videos on the right
+- All information was taken from wikipedia and re-written in my own words
+- Once it was written in my own words with the help from ChatGPT, I could slime it down by half the context
 
 ### Footer
 
@@ -152,6 +209,23 @@ Footer on Desktop
 Footer on Mobile
 
 ![footer-mobile.png](assets%2Fimages%2Freadme%2Ffooter-mobile.png)
+
+- All external links change color when hovered on
+- The GitHub Profile page points to my profile on GitHub opening in a new tab
+- All the other links point to the wikipedia page where information was gathered opening in a new tab
+
+### Contact Page
+
+Desktop view
+
+![contact-page-form-desktop.png](assets%2Fimages%2Freadme%2Fcontact-page-form-desktop.png)
+
+Mobile view
+
+![contact-page-form-mobile.png](assets%2Fimages%2Freadme%2Fcontact-page-form-mobile.png)
+
+- All fields in form are required
+- When the submitted button is clicked, it opens up new tab and returns data from CI server (data dump)
 
 ---
 
@@ -165,9 +239,9 @@ Footer on Mobile
 ### Frameworks - Libraries - Programs Used
 
 - Google fonts—for the use of fonts in site
-- GitHub—version control
-- Intellij Idea - IDE (Integrated Development Environment)
-- Google Chrome—for research and dev tools
+- GitHub—version control system
+- Intellij Idea - IDE (Integrated Development Environment) for coding out the website
+- Google Chrome—for research and developer tools
 
 Making full use of branching methodology when using GitHub
 ![Graph of git branching.png](assets%2Fimages%2Freadme%2FGraph%20of%20git%20branching.png)
@@ -277,7 +351,7 @@ Solved almost all problems in wave:
   but it is correct on the Landing page.
 
 This is how it looks
-  
+
 ![navbar-desktop.png](assets%2Fimages%2Freadme%2Fnavbar-desktop.png)
 
 This is how it is supposed to look
@@ -286,9 +360,9 @@ This is how it is supposed to look
 
 - Problem Solved: It turns out that it was a meta tag issue, I had only one meta tag in the 1900s and 2000s page, when
   it should have been 3.
-  
+
 Before
-  
+
 ![meta-tags-1.png](assets%2Fimages%2Freadme%2Fmeta-tags-1.png)
 
 After
@@ -297,7 +371,7 @@ After
 
 ### Problem 2: Timeline and image in the same line
 
-- Problem: The image is not supposed to be in the same line as the Timeline heading, it was only like that on laptop 
+- Problem: The image is not supposed to be in the same line as the Timeline heading, it was only like that on laptop
   screen sizes
 - Problem Solved: The margin was adjusted at breakpoint 1200px for those images
 

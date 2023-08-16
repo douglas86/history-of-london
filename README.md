@@ -128,6 +128,8 @@ Navbar on Mobile
 
 ![navbar-mobile.png](assets%2Fimages%2Freadme%2Fnavbar-mobile.png)
 
+- All links change color when hovered on
+
 Page Heading
 
 ![Page Heading.png](assets%2Fimages%2Freadme%2FPage%20Heading.png)
@@ -142,6 +144,8 @@ Image Heading of Landing Page
 
 - Using Flexbox to split the screen into 2
 - Paragraph on the left and images and videos on the right
+- All information was taken from wikipedia and re-written in my own words
+- Once it was written in my own words with the help from ChatGPT, I could slime it down by half the content
 
 ### Footer
 
@@ -152,6 +156,10 @@ Footer on Desktop
 Footer on Mobile
 
 ![footer-mobile.png](assets%2Fimages%2Freadme%2Ffooter-mobile.png)
+
+- All external links change color when hovered on
+- The GitHub Profile page points to my profile on GitHub
+- All the other links point to the wikipedia page where information was gathered
 
 ---
 
@@ -277,7 +285,7 @@ Solved almost all problems in wave:
   but it is correct on the Landing page.
 
 This is how it looks
-  
+
 ![navbar-desktop.png](assets%2Fimages%2Freadme%2Fnavbar-desktop.png)
 
 This is how it is supposed to look
@@ -286,9 +294,9 @@ This is how it is supposed to look
 
 - Problem Solved: It turns out that it was a meta tag issue, I had only one meta tag in the 1900s and 2000s page, when
   it should have been 3.
-  
+
 Before
-  
+
 ![meta-tags-1.png](assets%2Fimages%2Freadme%2Fmeta-tags-1.png)
 
 After
@@ -297,7 +305,7 @@ After
 
 ### Problem 2: Timeline and image in the same line
 
-- Problem: The image is not supposed to be in the same line as the Timeline heading, it was only like that on laptop 
+- Problem: The image is not supposed to be in the same line as the Timeline heading, it was only like that on laptop
   screen sizes
 - Problem Solved: The margin was adjusted at breakpoint 1200px for those images
 

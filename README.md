@@ -214,6 +214,19 @@ Footer on Mobile
 - The GitHub Profile page points to my profile on GitHub opening in a new tab
 - All the other links point to the wikipedia page where information was gathered opening in a new tab
 
+### Contact Page
+
+Desktop view
+
+![contact-page-form-desktop.png](assets%2Fimages%2Freadme%2Fcontact-page-form-desktop.png)
+
+Mobile view
+
+![contact-page-form-mobile.png](assets%2Fimages%2Freadme%2Fcontact-page-form-mobile.png)
+
+- All fields in form are required
+- When the submitted button is clicked, it opens up new tab and returns data from CI server (data dump)
+
 ---
 
 ## Technology Used

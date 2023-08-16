@@ -15,6 +15,8 @@ This site is deployed live on GitHub Pages
 
 ![Site-looks-on-other-displays.png](assets%2Fimages%2Freadme%2FSite-looks-on-other-displays.png)
 
+- This site is perfect for screen sizes from 450 pixels
+
 ---
 
 ## Table of Content

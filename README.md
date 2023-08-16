@@ -180,6 +180,7 @@ Navbar on Mobile
 
 ![navbar-mobile.png](assets%2Fimages%2Freadme%2Fnavbar-mobile.png)
 
+- In this section, you can navigate the site page structure
 - All links change color when hovered on
 
 Page Heading
@@ -197,7 +198,7 @@ Image Heading of Landing Page
 - Using Flexbox to split the screen into 2
 - Paragraph on the left and images and videos on the right
 - All information was taken from wikipedia and re-written in my own words
-- Once it was written in my own words with the help from ChatGPT, I could slime it down by half the content
+- Once it was written in my own words with the help from ChatGPT, I could slime it down by half the context
 
 ### Footer
 
@@ -210,8 +211,8 @@ Footer on Mobile
 ![footer-mobile.png](assets%2Fimages%2Freadme%2Ffooter-mobile.png)
 
 - All external links change color when hovered on
-- The GitHub Profile page points to my profile on GitHub
-- All the other links point to the wikipedia page where information was gathered
+- The GitHub Profile page points to my profile on GitHub opening in a new tab
+- All the other links point to the wikipedia page where information was gathered opening in a new tab
 
 ---
 
@@ -225,9 +226,9 @@ Footer on Mobile
 ### Frameworks - Libraries - Programs Used
 
 - Google fonts—for the use of fonts in site
-- GitHub—version control
-- Intellij Idea - IDE (Integrated Development Environment)
-- Google Chrome—for research and dev tools
+- GitHub—version control system
+- Intellij Idea - IDE (Integrated Development Environment) for coding out the website
+- Google Chrome—for research and developer tools
 
 Making full use of branching methodology when using GitHub
 ![Graph of git branching.png](assets%2Fimages%2Freadme%2FGraph%20of%20git%20branching.png)

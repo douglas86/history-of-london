@@ -9,6 +9,8 @@ This is my First Milestone Project with Code Insitute.
 I thought of building a website on the history of Transportation in London from the 1800s.
 As my country of origin doesn't have the same transportation network that the UK has to offer.
 
+This site is deployed live on GitHub Pages
+
 [Click here to visit my Live Site](https://douglas86.github.io/history-of-london/)
 
 ![Site-looks-on-other-displays.png](assets%2Fimages%2Freadme%2FSite-looks-on-other-displays.png)
@@ -26,6 +28,7 @@ As my country of origin doesn't have the same transportation network that the UK
 - [Wireframe Diagrams](#wireframe-diagram)
   - Website design idea
   - Old Idea's that I had and never used
+- [Installing locally and how it was deployed live](#installing-locally-and-how-it-was-deployed-live)
 - [Features](#features)
   - Headers
   - Flexbox
@@ -113,6 +116,55 @@ Top of design
 Bottom of design
 
 ![wireframe-6.png](assets%2Fimages%2Freadme%2Fwireframe-6.png)
+
+---
+
+## Installing locally and how it was deployed live
+
+### Installing locally
+
+git clone if using ssh or http
+
+- git clone git@github.com:douglas86/history-of-london.git
+- git clone https://github.com/douglas86/history-of-london.git
+
+And then use either live server on VS code or icons in the top right in intellij
+
+![icons-intellij.png](assets%2Fimages%2Freadme%2Ficons-intellij.png)
+
+### How I got it to go live
+
+Making live on GitHub pages
+
+- Go to your GitHub repo
+- Under the settings tab
+
+![settings-tab.png](assets%2Fimages%2Freadme%2Fsettings-tab.png)
+
+- On the side panel on the Left
+- There will be a section called Code and Automation
+- Click on the one that says pages
+
+![pages-tab.png](assets%2Fimages%2Freadme%2Fpages-tab.png)
+
+- On the right side, there is a section called Build and Deployment
+- Under the branch section make sure that the branch says main
+- Then save
+
+![branches.png](assets%2Fimages%2Freadme%2Fbranches.png)
+
+- Then go to the action tab, it should be built there
+- Give it a few minutes to finish
+
+![action-tab.png](assets%2Fimages%2Freadme%2Faction-tab.png)
+
+- When finished, click on the link, using ctrl + click
+- this will open in a new tab
+
+![deployed-site.png](assets%2Fimages%2Freadme%2Fdeployed-site.png)
+
+- Whenever you want to visit your live site
+- You can go back to the pages section under the settings tab
 
 ---
 

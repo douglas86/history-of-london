@@ -139,6 +139,9 @@
 
 /*media for 900 pixels*/
 @media only screen and (max-width: 900px) {
+  body {
+    min-height: 100vh;
+  }
   /*Headings*/
   .image-heading {
     height: 30rem;

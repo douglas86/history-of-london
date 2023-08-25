@@ -55,7 +55,14 @@ This site is deployed live on GitHub Pages
 - I was amazed at the sure size of the London Transportation System
 - Being the fact that I have two checkboxes ticked, the history of the transport system would've been the best
   choice to bring my idea to life
-- This would also be a way of showering off my skills to potential employers
+- This would also be a way of showing off my skills to potential employers
+
+### The aim and goal for a first time user
+
+- Build an attractive site for the history of London Transportation System
+- To show a brief history taken from the Omnibus in the 19th Century to the Bus and London Underground in the 21st
+  Century
+- To show off one of the oldest transportation systems in the World
 
 ---
 

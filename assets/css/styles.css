@@ -8,6 +8,10 @@ body {
     url("../images/general/istockphoto-515842039-170667a.webp") repeat;
 }
 
+.hidden {
+  display: none;
+}
+
 /*navbar & footer*/
 .navbar-title {
   text-align: center;

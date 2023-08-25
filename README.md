@@ -49,6 +49,14 @@ This site is deployed live on GitHub Pages
 
 ## [User Experience (UX)](#table-of-content)
 
+### Motivation for this project
+
+- History was always an interest for me
+- I was amazed at the sure size of the London Transportation System
+- Being the fact that I have two checkboxes ticked, the history of the transport system would've been the best
+  choice to bring my idea to life
+- This would also be a way of showering off my skills to potential employers
+
 ---
 
 ## [Website Design](#table-of-content)

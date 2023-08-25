@@ -22,6 +22,7 @@ This site is deployed live on GitHub Pages
 ## Table of Content
 
 - [Introduction](#introduction)
+- [User Experience (UX)](#user-experience--ux-)
 - [Website Design](#website-design)
   - Color Palete
   - Typography
@@ -43,6 +44,10 @@ This site is deployed live on GitHub Pages
 - [Credits and references](#credits-and-references)
   - Credits
   - References for information
+
+---
+
+## [User Experience (UX)](#table-of-content)
 
 ---
 

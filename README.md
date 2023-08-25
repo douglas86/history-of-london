@@ -13,7 +13,7 @@ This site is deployed live on GitHub Pages
 
 [Click here to visit my Live Site](https://douglas86.github.io/history-of-london/)
 
-![Site-looks-on-other-displays.png](assets%2Fimages%2Freadme%2FSite-looks-on-other-displays.png)
+![Site-looks-on-other-displays.png](assets%2Fimages%2Freadme%2Fintroduction%2FSite-looks-on-other-displays.png)
 
 - This site is perfect for screen sizes from 450 pixels
 
@@ -22,6 +22,7 @@ This site is deployed live on GitHub Pages
 ## Table of Content
 
 - [Introduction](#introduction)
+- [User Experience (UX)](#user-experience--ux-)
 - [Website Design](#website-design)
   - Color Palete
   - Typography
@@ -46,11 +47,35 @@ This site is deployed live on GitHub Pages
 
 ---
 
+## [User Experience (UX)](#table-of-content)
+
+### Motivation for this project
+
+- History was always an interest for me
+- I was amazed at the sure size of the London Transportation System
+- Being the fact that I have two checkboxes ticked, the history of the transport system would've been the best
+  choice to bring my idea to life
+- This would also be a way of showing off my skills to potential employers
+
+### The aim and goal for a first time user
+
+- Build an attractive site for the history of London Transportation System
+- To show a brief history taken from the Omnibus in the 19th Century to the Bus and London Underground in the 21st
+  Century
+- To show off one of the oldest transportation systems in the World
+
+### The aim of any returning visitors
+
+- Nice display that is nicely formatted and easy to read
+- Links on the Footer to show were the resources were gathered from
+
+---
+
 ## [Website Design](#table-of-content)
 
 ### Color Palete
 
-![colour-palete.png](assets%2Fimages%2Freadme%2Fcolour-palete.png)
+![colour-palete.png](assets%2Fimages%2Freadme%2Fwebsite-design%2Fcolour-palete.png)
 
 [Website of Color Palete](https://mycolor.space/?hex=%23D6B65E&sub=1)
 
@@ -88,11 +113,11 @@ This site is deployed live on GitHub Pages
 
 Top of design
 
-![wireframe-1.png](assets%2Fimages%2Freadme%2Fwireframe-1.png)
+![wireframe-1.png](assets%2Fimages%2Freadme%2Fwireframes%2Fwireframe-1.png)
 
 Bottom of design
 
-![wireframe-2.png](assets%2Fimages%2Freadme%2Fwireframe-2.png)
+![wireframe-2.png](assets%2Fimages%2Freadme%2Fwireframes%2Fwireframe-2.png)
 
 ### Old idea that I had and never used
 
@@ -102,22 +127,22 @@ many documents.
 
 Top of design
 
-![wireframe-3.png](assets%2Fimages%2Freadme%2Fwireframe-3.png)
+![wireframe-3.png](assets%2Fimages%2Freadme%2Fwireframes%2Fwireframe-3.png)
 
 Bottom of design
 
-![wireframe-4.png](assets%2Fimages%2Freadme%2Fwireframe-4.png)
+![wireframe-4.png](assets%2Fimages%2Freadme%2Fwireframes%2Fwireframe-4.png)
 
 This was a second idea that I had, I was going to do a website on the different companies on the London Underground.
 One of the Main reasons for not doing it was that there were too many to choose from.
 
 Top of design
 
-![wireframe-5.png](assets%2Fimages%2Freadme%2Fwireframe-5.png)
+![wireframe-5.png](assets%2Fimages%2Freadme%2Fwireframes%2Fwireframe-5.png)
 
 Bottom of design
 
-![wireframe-6.png](assets%2Fimages%2Freadme%2Fwireframe-6.png)
+![wireframe-6.png](assets%2Fimages%2Freadme%2Fwireframes%2Fwireframe-6.png)
 
 ---
 
@@ -132,7 +157,7 @@ git clone if using ssh or http
 
 And then use either live server on VS code or icons in the top right in intellij
 
-![icons-intellij.png](assets%2Fimages%2Freadme%2Ficons-intellij.png)
+![icons-intellij.png](assets%2Fimages%2Freadme%2Finstalling%2Ficons-intellij.png)
 
 ### How I got it to go live
 
@@ -141,29 +166,29 @@ Making live on GitHub pages
 - Go to your GitHub repo
 - Under the settings tab
 
-![settings-tab.png](assets%2Fimages%2Freadme%2Fsettings-tab.png)
+![settings-tab.png](assets%2Fimages%2Freadme%2Finstalling%2Fsettings-tab.png)
 
 - On the side panel on the Left
 - There will be a section called Code and Automation
 - Click on the one that says pages
 
-![pages-tab.png](assets%2Fimages%2Freadme%2Fpages-tab.png)
+![pages-tab.png](assets%2Fimages%2Freadme%2Finstalling%2Fpages-tab.png)
 
 - On the right side, there is a section called Build and Deployment
 - Under the branch section make sure that the branch says main
 - Then save
 
-![branches.png](assets%2Fimages%2Freadme%2Fbranches.png)
+![branches.png](assets%2Fimages%2Freadme%2Finstalling%2Fbranches.png)
 
 - Then go to the action tab, it should be built there
 - Give it a few minutes to finish
 
-![action-tab.png](assets%2Fimages%2Freadme%2Faction-tab.png)
+![action-tab.png](assets%2Fimages%2Freadme%2Finstalling%2Faction-tab.png)
 
 - When finished, click on the link, using ctrl + click
 - this will open in a new tab
 
-![deployed-site.png](assets%2Fimages%2Freadme%2Fdeployed-site.png)
+![deployed-site.png](assets%2Fimages%2Freadme%2Finstalling%2Fdeployed-site.png)
 
 - Whenever you want to visit your live site
 - You can go back to the pages section under the settings tab
@@ -176,26 +201,26 @@ Making live on GitHub pages
 
 Navbar on Desktop
 
-![navbar-desktop.png](assets%2Fimages%2Freadme%2Fnavbar-desktop.png)
+![navbar-desktop.png](assets%2Fimages%2Freadme%2Ffeatures%2Fnavbar-desktop.png)
 
 Navbar on Mobile
 
-![navbar-mobile.png](assets%2Fimages%2Freadme%2Fnavbar-mobile.png)
+![navbar-mobile.png](assets%2Fimages%2Freadme%2Ffeatures%2Fnavbar-mobile.png)
 
 - In this section, you can navigate the site page structure
 - All links change color when hovered on
 
 Page Heading
 
-![Page Heading.png](assets%2Fimages%2Freadme%2FPage%20Heading.png)
+![Page Heading.png](assets%2Fimages%2Freadme%2Ffeatures%2FPage%20Heading.png)
 
 Image Heading of Landing Page
 
-![Image-heading.png](assets%2Fimages%2Freadme%2FImage-heading.png)
+![Image-heading.png](assets%2Fimages%2Freadme%2Ffeatures%2FImage-heading.png)
 
 ### Flexbox
 
-![Flexbox.png](assets%2Fimages%2Freadme%2FFlexbox.png)
+![Flexbox.png](assets%2Fimages%2Freadme%2Ffeatures%2FFlexbox.png)
 
 - Using Flexbox to split the screen into 2
 - Paragraph on the left and images and videos on the right
@@ -206,11 +231,11 @@ Image Heading of Landing Page
 
 Footer on Desktop
 
-![footer-desktop.png](assets%2Fimages%2Freadme%2Ffooter-desktop.png)
+![footer-desktop.png](assets%2Fimages%2Freadme%2Ffeatures%2Ffooter-desktop.png)
 
 Footer on Mobile
 
-![footer-mobile.png](assets%2Fimages%2Freadme%2Ffooter-mobile.png)
+![footer-mobile.png](assets%2Fimages%2Freadme%2Ffeatures%2Ffooter-mobile.png)
 
 - All external links change color when hovered on
 - The GitHub Profile page points to my profile on GitHub opening in a new tab
@@ -220,11 +245,11 @@ Footer on Mobile
 
 Desktop view
 
-![contact-page-form-desktop.png](assets%2Fimages%2Freadme%2Fcontact-page-form-desktop.png)
+![contact-page-form-desktop.png](assets%2Fimages%2Freadme%2Ffeatures%2Fcontact-page-form-desktop.png)
 
 Mobile view
 
-![contact-page-form-mobile.png](assets%2Fimages%2Freadme%2Fcontact-page-form-mobile.png)
+![contact-page-form-mobile.png](assets%2Fimages%2Freadme%2Ffeatures%2Fcontact-page-form-mobile.png)
 
 - All fields in form are required
 - When the submitted button is clicked, it opens up new tab and returns data from CI server (data dump)
@@ -242,19 +267,63 @@ Mobile view
 
 - Google fonts—for the use of fonts in site
 - GitHub—version control system
-- Intellij Idea - IDE (Integrated Development Environment) for coding out the website
+- IntelliJ IDEA—IDE (Integrated Development Environment) for coding out the website
 - Google Chrome—for research and developer tools
 
 Making full use of branching methodology when using GitHub
-![Graph of git branching.png](assets%2Fimages%2Freadme%2FGraph%20of%20git%20branching.png)
+
+![Graph of git branching.png](assets%2Fimages%2Freadme%2Ftechnology%20used%2FGraph%20of%20git%20branching.png)
+
+- When I started this project, I used a Branching methodology of working in and out of a develop branch like they
+  would in industry
+- Initially, I wasn't commiting enough
+- When I did the Love Running Project, it showed the correct method to be used
+- I had only done that project towards the finish of this Project
+- This project was a great learning curve on what I need to improve on for the next project
 
 ---
 
 ## Testing And Validation
 
-### Lighthouse testing using Chrome Dev Tools on Home Page
+### Lighthouse testing on Home Page
 
-![lighthouse-report.png](assets%2Fimages%2Freadme%2Flighthouse-report.png)
+- Desktop
+
+![lighthouse-homepage.png](assets%2Fimages%2Freadme%2Ftesting%2Flighthouse-homepage.png)
+
+- Mobile
+
+![lighthouse-homepage-mobile.png](assets%2Fimages%2Freadme%2Ftesting%2Flighthouse-homepage-mobile.png)
+
+### Lighthouse testing on 1900s Page
+
+- Desktop
+
+![lighthouse-1900s-page.png](assets%2Fimages%2Freadme%2Ftesting%2Flighthouse-1900s-page.png)
+
+- Mobile
+
+![lighthouse-1900s-page-mobile.png](assets%2Fimages%2Freadme%2Ftesting%2Flighthouse-1900s-page-mobile.png)
+
+### Lighthouse testing on 2000s Page
+
+- Desktop
+
+![lighthouse-2000s-page.png](assets%2Fimages%2Freadme%2Ftesting%2Flighthouse-2000s-page.png)
+
+- Mobile
+
+![lighthouse-2000s-page-mobile.png](assets%2Fimages%2Freadme%2Ftesting%2Flighthouse-2000s-page-mobile.png)
+
+### Lighthouse testing on contact Page
+
+- Desktop
+
+![lighthouse-contact-page.png](assets%2Fimages%2Freadme%2Ftesting%2Flighthouse-contact-page.png)
+
+- Mobile
+
+![lighthouse-contact-page-mobile.png](assets%2Fimages%2Freadme%2Ftesting%2Flighthouse-contact-page-mobile.png)
 
 ### Types of Testing
 
@@ -266,7 +335,7 @@ Making full use of branching methodology when using GitHub
 
 This is testing the live site URL
 
-![HTML-validator.png](assets%2Fimages%2Freadme%2FHTML-validator.png)
+![HTML-validator.png](assets%2Fimages%2Freadme%2Ftesting%2FHTML-validator.png)
 
 - 22 Problems were found
 - 17 info errors
@@ -289,7 +358,7 @@ Testing each page:
 
 Rectified all issues with HTML validators:
 
-![HTML-validator-issues-rectified.png](assets%2Fimages%2Freadme%2FHTML-validator-issues-rectified.png)
+![HTML-validator-issues-rectified.png](assets%2Fimages%2Freadme%2Ftesting%2FHTML-validator-issues-rectified.png)
 
 - [URL report](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdouglas86.github.io%2Fhistory-of-london%2F)
 
@@ -297,7 +366,7 @@ Rectified all issues with HTML validators:
 
 This is testing the live site URL
 
-![CSS-validator.png](assets%2Fimages%2Freadme%2FCSS-validator.png)
+![CSS-validator.png](assets%2Fimages%2Freadme%2Ftesting%2FCSS-validator.png)
 
 - There were no errors found
 
@@ -313,7 +382,7 @@ Testing each css file:
 
 ### Wave
 
-![wave-validator.png](assets%2Fimages%2Freadme%2Fwave-validator.png)
+![wave-validator.png](assets%2Fimages%2Freadme%2Ftesting%2Fwave-validator.png)
 
 Wave only tests the live site:
 
@@ -338,7 +407,7 @@ Wave only tests the live site:
 
 Solved almost all problems in wave:
 
-![wave-validator-problems-solved.png](assets%2Fimages%2Freadme%2Fwave-validator-problems-solved.png)
+![HTML-validator-issues-rectified.png](assets%2Fimages%2Freadme%2Ftesting%2FHTML-validator-issues-rectified.png)
 
 - The only warning that was left was that I was having problems getting a transcript for my video file
 - [Wave Report](https://wave.webaim.org/report#/https://douglas86.github.io/history-of-london/)
@@ -354,22 +423,22 @@ Solved almost all problems in wave:
 
 This is how it looks
 
-![navbar-desktop.png](assets%2Fimages%2Freadme%2Fnavbar-desktop.png)
+![navbar-desktop.png](assets%2Fimages%2Freadme%2Ffeatures%2Fnavbar-desktop.png)
 
 This is how it is supposed to look
 
-![navbar-mobile.png](assets%2Fimages%2Freadme%2Fnavbar-mobile.png)
+![navbar-mobile.png](assets%2Fimages%2Freadme%2Ffeatures%2Fnavbar-mobile.png)
 
 - Problem Solved: It turns out that it was a meta tag issue, I had only one meta tag in the 1900s and 2000s page, when
   it should have been 3.
 
 Before
 
-![meta-tags-1.png](assets%2Fimages%2Freadme%2Fmeta-tags-1.png)
+![meta-tags-1.png](assets%2Fimages%2Freadme%2Fbugs%2Fmeta-tags-1.png)
 
 After
 
-![meta-tags-2.png](assets%2Fimages%2Freadme%2Fmeta-tags-2.png)
+![meta-tags-2.png](assets%2Fimages%2Freadme%2Fbugs%2Fmeta-tags-2.png)
 
 ### Problem 2: Timeline and image in the same line
 
@@ -379,11 +448,11 @@ After
 
 Before
 
-![Problem-2-Before.png](assets%2Fimages%2Freadme%2FProblem-2-Before.png)
+![Problem-2-Before.png](assets%2Fimages%2Freadme%2Fbugs%2FProblem-2-Before.png)
 
 After
 
-![Problem-2-After.png](assets%2Fimages%2Freadme%2FProblem-2-After.png)
+![Problem-2-After.png](assets%2Fimages%2Freadme%2Fbugs%2FProblem-2-After.png)
 
 ---
 
@@ -393,6 +462,7 @@ After
 
 - [Luke Buchanan - Mentor](https://www.linkedin.com/in/lukebuchanan67/)
 - [Code Institute - Bootcamp](https://codeinstitute.net/)
+- [Lane - Sawyer T. - guidance and suggestions](https://www.linkedin.com/in/lanesawyert/)
 - [Inspiration for this readme file](https://github.com/PedroCristo/portfolio_project_1#languages-used)
 
 ### References for information

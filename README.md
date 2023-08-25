@@ -462,6 +462,7 @@ After
 
 - [Luke Buchanan - Mentor](https://www.linkedin.com/in/lukebuchanan67/)
 - [Code Institute - Bootcamp](https://codeinstitute.net/)
+- [Lane - Sawyer T. - guidance and suggestions](https://www.linkedin.com/in/lanesawyert/)
 - [Inspiration for this readme file](https://github.com/PedroCristo/portfolio_project_1#languages-used)
 
 ### References for information

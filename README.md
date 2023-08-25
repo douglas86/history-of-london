@@ -267,11 +267,19 @@ Mobile view
 
 - Google fonts—for the use of fonts in site
 - GitHub—version control system
-- Intellij Idea - IDE (Integrated Development Environment) for coding out the website
+- IntelliJ IDEA—IDE (Integrated Development Environment) for coding out the website
 - Google Chrome—for research and developer tools
 
 Making full use of branching methodology when using GitHub
+
 ![Graph of git branching.png](assets%2Fimages%2Freadme%2FGraph%20of%20git%20branching.png)
+
+- When I started this project, I used a Branching methodology of working in and out of a develop branch like they
+  would in industry
+- Initially, I wasn't commiting enough
+- When I did the Love Running Project, it showed the correct method to be used
+- I had only done that project towards the finish of this Project
+- This project was a great learning curve on what I need to improve on for the next project
 
 ---
 

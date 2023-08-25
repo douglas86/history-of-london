@@ -64,6 +64,11 @@ This site is deployed live on GitHub Pages
   Century
 - To show off one of the oldest transportation systems in the World
 
+### The aim of any returning visitors
+
+- Nice display that is nicely formatted and easy to read
+- Links on the Footer to show were the resources were gathered from
+
 ---
 
 ## [Website Design](#table-of-content)

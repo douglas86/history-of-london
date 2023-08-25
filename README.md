@@ -285,9 +285,45 @@ Making full use of branching methodology when using GitHub
 
 ## Testing And Validation
 
-### Lighthouse testing using Chrome Dev Tools on Home Page
+### Lighthouse testing on Home Page
 
-![lighthouse-report.png](assets%2Fimages%2Freadme%2Flighthouse-report.png)
+- Desktop
+
+![lighthouse-homepage.png](assets%2Fimages%2Freadme%2Ftesting%2Flighthouse-homepage.png)
+
+- Mobile
+
+![lighthouse-homepage-mobile.png](assets%2Fimages%2Freadme%2Ftesting%2Flighthouse-homepage-mobile.png)
+
+### Lighthouse testing on 1900s Page
+
+- Desktop
+
+![lighthouse-1900s-page.png](assets%2Fimages%2Freadme%2Ftesting%2Flighthouse-1900s-page.png)
+
+- Mobile
+
+![lighthouse-1900s-page-mobile.png](assets%2Fimages%2Freadme%2Ftesting%2Flighthouse-1900s-page-mobile.png)
+
+### Lighthouse testing on 2000s Page
+
+- Desktop
+
+![lighthouse-2000s-page.png](assets%2Fimages%2Freadme%2Ftesting%2Flighthouse-2000s-page.png)
+
+- Mobile
+
+![lighthouse-2000s-page-mobile.png](assets%2Fimages%2Freadme%2Ftesting%2Flighthouse-2000s-page-mobile.png)
+
+### Lighthouse testing on contact Page
+
+- Desktop
+
+![lighthouse-contact-page.png](assets%2Fimages%2Freadme%2Ftesting%2Flighthouse-contact-page.png)
+
+- Mobile
+
+![lighthouse-contact-page-mobile.png](assets%2Fimages%2Freadme%2Ftesting%2Flighthouse-contact-page-mobile.png)
 
 ### Types of Testing
 
